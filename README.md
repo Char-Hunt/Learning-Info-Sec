@@ -1,9 +1,9 @@
-# Learning-Info-Sec
+### Learning-Info-Sec
 My study notes Learning InfoSec and Cyber Security
 
 //To Do => add more details
 
-Portfolio projects
+Portfolio Projects
 
 •	Conducting a security audit
 •	Analyzing network structure and security
