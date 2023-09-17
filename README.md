@@ -11,7 +11,7 @@ My study notes for Learning InfoSec and Cyber Security
 - 📫 How to reach me: Find me on LinkedIn
 - 😄 Portfolio Projects: See Below.
 
-- ⚡ Preview List: •	Conducting a security audit
+- ⚡ Portfolio List (Links): •	Conducting a security audit
 •	Analyzing network structure and security
 •	Using Linux commands to manage file permissions
 •	Applying filters to SQL queries
@@ -33,7 +33,6 @@ My study notes for Learning InfoSec and Cyber Security
 - Play It Safe: Manage Security Risks
 - 
 - ⚡PROJECTS:⚡
-
 - 🔭Identify common risks, threats, and vulnerabilities, as well as techniques for mitigation
 - 🔭Hands-on experience with Python, Linux, and SQL.
 - 🔭Secure Networks against netwok intrusion, DoS attacks
@@ -45,14 +44,18 @@ My study notes for Learning InfoSec and Cyber Security
 - 🔭Identify common risks, threats, and vulnerabilities, as well as techniques for mitigation
 - 🔭Automate Tasks Cybersecurity Tasks with Python
   - Create a basic Python script
-  - Overview Python environments, Activity: Practice writing Python code
+  - Overview Python environments
+  - Activity: Practice writing Python code
 - 🔭Work with variables in Python
-  - Assign and reassign variables in Python, Activity: Assign Python variables
+  - Assign and reassign variables in Python
+  - Activity: Assign Python variables
 - 🔭Core Python components
-  - Conditional statements in Python, Activity: Create a conditional statement
+  - Conditional statements in Python
+  - Activity: Create a conditional statement
   - For loops
   - While loops
-  - Identify: Select the correct iterative statement, Activity: Create loops
+  - Identify: Select the correct iterative statement
+  - Activity: Create loops
 - 🔭Authentication, authorization, and accounting
   - Identity and access management (IAM)
   - Activity: Improve authentication, authorization, and accounting for a small business
@@ -70,7 +73,16 @@ My study notes for Learning InfoSec and Cyber Security
 - 🔭Encryption methods
   - Principle of least privilege
   - The data lifecycle
-  - Information privacy: Regulations and compliance, Activity: Determine appropriate data handling practices
+  - Information privacy: Regulations and compliance
+  - Activity: Determine appropriate data handling practices
+- 🔭Fundamentals of cryptography
+  - Public key infrastructure
+  - Symmetric and asymmetric encryption
+  - Activity: Decrypt an encrypted message
+  - Non-repudiation and hashing
+  - The evolution of hash functions
+  - Activity: Create hash values
+
 - ⚡SKILLS:⚡
 - Linux
 - Python Programming
