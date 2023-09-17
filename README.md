@@ -10,7 +10,7 @@ My study notes for Learning InfoSec and Cyber Security
 - 💬 Ask me about how resiliency, risk, ethics, and customer experience can be intersectional.
 - 📫 How to reach me: Find me on LinkedIn
 - 😄 Portfolio Projects: See Below.
-
+##
 - ⚡ Portfolio List (Links): •	Conducting a security audit
 •	Analyzing network structure and security
 •	Using Linux commands to manage file permissions
@@ -18,20 +18,27 @@ My study notes for Learning InfoSec and Cyber Security
 •	Identifying vulnerabilities for a small business
 •	Documenting incidents with an incident handler’s journal 
 •	Importing and parsing a text file in a security-related scenario
-
+##
 -  SPECIALIZATIONS: Google Cybersecurity Professional Certificate 
-
+##
 - ⚡COURSES:⚡
 - 🔭Professional Development Course, Cybersecurity (certification course)
-- Connect and Protect: Networks and Network Security
-- Tools of the Trade: Linux and SQL
-- Automate Cybersecurity Tasks with Python
-- Put It to Work: Prepare for Cybersecurity Jobs
-- Foundations of Cybersecurity
-- Sound the Alarm: Detection and Response
-- Assets, Threats, and Vulnerabilities
-- Play It Safe: Manage Security Risks
-- 
+  - Connect and Protect: Networks and Network Security
+  - Tools of the Trade: Linux and SQL
+  - Automate Cybersecurity Tasks with Python
+  - Put It to Work: Prepare for Cybersecurity Jobs
+  - Foundations of Cybersecurity
+  - Sound the Alarm: Detection and Response
+  - Assets, Threats, and Vulnerabilities
+  - Play It Safe: Manage Security Risks
+##
+- ⚡SKILLS:⚡
+- Linux
+- Python Programming
+- Security Information and Event Management (SIEM) tools
+- Intrusion Detection Systems (IDS)
+- SQL querying
+##
 - ⚡PROJECTS:⚡
 - 🔭Identify common risks, threats, and vulnerabilities, as well as techniques for mitigation
 - 🔭Hands-on experience with Python, Linux, and SQL.
@@ -83,12 +90,6 @@ My study notes for Learning InfoSec and Cyber Security
   - The evolution of hash functions
   - Activity: Create hash values
 
-- ⚡SKILLS:⚡
-- Linux
-- Python Programming
-- Security Information and Event Management (SIEM) tools
-- Intrusion Detection Systems (IDS)
-- SQL querying
 - ⚡
 - ⚡
 - ⚡
