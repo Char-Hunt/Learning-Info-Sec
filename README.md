@@ -9,7 +9,7 @@ My study notes for Learning InfoSec and Cyber Security
 - 🤔 I’m looking for help with threat assessment tips and any of the above.
 - 💬 Ask me about how resiliency, risk, ethics, and customer experience can be intersectional.
 - 📫 How to reach me: Find me on LinkedIn
-- 😄 Portfolio Projects: Coming Up Soon.
+- 😄 Portfolio Projects: See Below.
 
 - ⚡ Preview List: •	Conducting a security audit
 •	Analyzing network structure and security
