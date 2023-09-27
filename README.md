@@ -52,27 +52,27 @@ My study notes for Learning InfoSec and Cyber Security
 - 🔭Automate Tasks Cybersecurity Tasks with Python
   - Create a basic Python script
   - Overview Python environments
-  - Activity: Practice writing Python code
+  - LAB ACTIVITY: Practice writing Python code
 - 🔭Work with variables in Python
   - Assign and reassign variables in Python
-  - Activity: Assign Python variables
+  - LAB ACTIVITY: Assign Python variables
 - 🔭Core Python components
   - Conditional statements in Python
-  - Activity: Create a conditional statement
+  - LAB ACTIVITY: Create a conditional statement
   - For loops
   - While loops
   - Identify: Select the correct iterative statement
-  - Activity: Create loops
+  - LAB ACTIVITY: Create loops
 - 🔭Authentication, authorization, and accounting
   - Identity and access management (IAM)
-  - Activity: Improve authentication, authorization, and accounting for a small business
+  - LAB ACTIVITY: Improve authentication, authorization, and accounting for a small business
   - Access controls and authentication systems, The mechanisms of authorization
   - Why do we audit user activity
 - 🔭Digital and physical assets
 - 🔭Risk and asset security - How organizations determine what assets to protect.
   - Managing risk and classifying assets based on challenges of securing physical and digital assets.
   - Best Practices to manage cybersecurity risk
-  - Activity: Score risks based on likelihood and severity
+  - LAB ACTIVITY: Score risks based on likelihood and severity
 - 🔭Safeguard information
 - 🔭Elements of a security plan
   - The NIST Cybersecurity Framework
@@ -81,14 +81,14 @@ My study notes for Learning InfoSec and Cyber Security
   - Principle of least privilege
   - The data lifecycle
   - Information privacy: Regulations and compliance
-  - Activity: Determine appropriate data handling practices
+  - LAB ACTIVITY: Determine appropriate data handling practices
 - 🔭Fundamentals of cryptography
   - Public key infrastructure
   - Symmetric and asymmetric encryption
-  - Activity: Decrypt an encrypted message
+  - LAB ACTIVITY: Decrypt an encrypted message
   - Non-repudiation and hashing
   - The evolution of hash functions
-  - Activity: Create hash values
+  - LAB ACTIVITY: Create hash values
 
 - ⚡
 - ⚡
