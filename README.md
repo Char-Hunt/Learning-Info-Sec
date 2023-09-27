@@ -1,14 +1,14 @@
 ### Learning-Info-Sec
-My study notes for Learning InfoSec and Cyber Security
+My study notes for Learning InfoSec and Cyber Security 👨‍💻
 
 ### Hi there 👋 Nice to meet you!
 
 - 🔭 I’m currently working on InfoSec and Cybersecurity.
-- 🌱 I’m currently learning python, linux for ML, IAM, and SOC.
-- 👯 I’m looking to collaborate on SEIM, DR, and vulnerability tools.
+- 🌱 I’m currently learning python, linux for SOC, ML, and IAM.
+- 👯 I’m looking to collaborate on SIEM, DR, and vulnerability tools.
 - 🤔 I’m looking for help with threat assessment tips and any of the above.
 - 💬 Ask me about how resiliency, risk, ethics, and customer experience can be intersectional.
-- 📫 How to reach me: Find me on LinkedIn
+- 📫 How to reach me: Find me online <a href="https://www.linkedin.com/in/charhunte">here to learn more.</a>
 - 😄 Portfolio Projects: See Below.
 ##
 - ⚡ Portfolio List (Links): •	Conducting a security audit
@@ -19,29 +19,46 @@ My study notes for Learning InfoSec and Cyber Security
 •	Documenting incidents with an incident handler’s journal 
 •	Importing and parsing a text file in a security-related scenario
 ##
--  SPECIALIZATIONS: Google Cybersecurity Professional Certificate 
+-  SPECIALIZATIONS:
+- Professional Certifications
+  - Google Cybersecurity Professional Certificate
+  - CISSP - In progress
+  - GRC/Compliance - In progress
+  - CompTIA A+
 ##
 - ⚡COURSES:⚡
-- 🔭Professional Development Course, Cybersecurity (certification course)
+- 🔭Professional Development Course, Cybersecurity, IT Services Management, IT Ops (certification courses)
   - Connect and Protect: Networks and Network Security
   - Tools of the Trade: Linux and SQL
   - Automate Cybersecurity Tasks with Python
-  - Put It to Work: Prepare for Cybersecurity Jobs
+  - Put It to Work: Prepare for Cybersecurity Jobs and tasks
   - Foundations of Cybersecurity
   - Sound the Alarm: Detection and Response
   - Assets, Threats, and Vulnerabilities
   - Play It Safe: Manage Security Risks
+  - CompTIA Network+
 ##
-- ⚡SKILLS:⚡
+- ⚡SKILLS and EXPERIENCE:⚡ 
 - Linux
+- Bash
 - Python Programming
 - Security Information and Event Management (SIEM) tools
 - Intrusion Detection Systems (IDS)
-- SQL querying
+- SQL / MySQL
+- Incident Reports and Documentation
+- 🔭Security Tools
+  - Microsoft Windows Defender for Endpoint
+  - Wireshark
+  - Nmap Security Scanning
+  - tcpdump
+  - Vulnerability Management with Nessus
+  - Splunk 
+- Virtualization
+- TCP/IP networking
 ##
 - ⚡PROJECTS:⚡
 - 🔭Identify common risks, threats, and vulnerabilities, as well as techniques for mitigation
-- 🔭Hands-on experience with Python, Linux, and SQL.
+- Hands-on experience with Python, Linux, and SQL.
 - 🔭Secure Networks against netwok intrusion, DoS attacks
   - Read tcpdump logs, Real-life DDoS attack, Analyze: network layer communication
 - 🔭Network Attacks and defense
@@ -89,8 +106,9 @@ My study notes for Learning InfoSec and Cyber Security
   - Non-repudiation and hashing
   - The evolution of hash functions
   - LAB ACTIVITY: Create hash values
+##
 
-- ⚡
+- ⚡ 
 - ⚡
 - ⚡
 - - ⚡
