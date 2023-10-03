@@ -1,6 +1,8 @@
 ### Learning-Info-Sec
 My study notes for Learning InfoSec and Cyber Security 👨‍💻
 
+I evaluate risk assessment at a system level, focusing on process, control, monitoring or incident response and recovery activities.
+
 ### Hi there 👋 Nice to meet you!
 
 - 🔭 I’m currently working on InfoSec and Cybersecurity.
