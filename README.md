@@ -1,7 +1,7 @@
 ### Learning-Info-Sec
 My study notes for Learning InfoSec and Cyber Security 👨‍💻
 
-I evaluate risk assessment at a system level, focusing on process, control, monitoring or incident response and recovery activities.
+I evaluate risk assessments at a system level, focusing on process, control, monitoring or incident response and recovery activities.
 
 ### Hi there 👋 Nice to meet you!
 
@@ -10,13 +10,13 @@ I evaluate risk assessment at a system level, focusing on process, control, mo
 - 👯 I’m looking to collaborate on SIEM, DR, and vulnerability tools.
 - 🤔 I’m looking for help with threat assessment tips and any of the above.
 - 💬 Ask me about how resiliency, risk, ethics, and customer experience can be intersectional.
-- 📫 How to reach me: Find me online <a href="https://www.linkedin.com/in/charhunte">here to learn more.</a>
+- 📫 How to reach me: Find me online and [Learn More.](https://www.linkedin.com/in/charhunte)
 - 😄 Portfolio Projects: See Below.
 ##
 - ⚡ Portfolio List (Links): •	Conducting a security audit
 •	Analyzing network structure and security
 •	Using Linux commands to manage file permissions
-•	Applying filters to SQL queries
+•	[Applying filters to SQL queries](https://github.com/Char-Hunt/Data-Retrievals)
 •	Identifying vulnerabilities for a small business
 •	Documenting incidents with an incident handler’s journal 
 •	Importing and parsing a text file in a security-related scenario
