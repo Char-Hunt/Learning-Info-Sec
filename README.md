@@ -1,4 +1,4 @@
-## Hi there 👋 Hi | Hello | bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō
+### Hi there 👋 Hi | Hello | bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō
 
 ### These are my study notes for Learning InfoSec and Cyber Security topics.
 
