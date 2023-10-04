@@ -113,8 +113,3 @@ I evaluate risk assessments at a system level, focusing on process, control, m
   - The evolution of hash functions
   - LAB ACTIVITY: Create hash values
 ##
-
-- ⚡ 
-- ⚡
-
-  
