@@ -1,6 +1,6 @@
 ## Hi there 👋 Nice to meet you!
 
-### These are my study notes for Learning InfoSec and Cyber Security topics. 👨‍💻
+### These are my study notes for Learning InfoSec and Cyber Security topics.
 
 I evaluate risk assessments at a system level, focusing on process, control, monitoring or incident response and recovery activities.
 
