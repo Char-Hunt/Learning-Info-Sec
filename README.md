@@ -1,9 +1,8 @@
-### Learning-Info-Sec
-My study notes for Learning InfoSec and Cyber Security 👨‍💻
+## Hi there 👋 Nice to meet you!
+
+### These are my study notes for Learning InfoSec and Cyber Security topics. 👨‍💻
 
 I evaluate risk assessments at a system level, focusing on process, control, monitoring or incident response and recovery activities.
-
-## Hi there 👋 Nice to meet you!
 
 - 🔭 I’m currently working on InfoSec and Cybersecurity.
 - 🌱 I’m currently learning python, linux for SOC, ML, and IAM.
@@ -12,9 +11,8 @@ I evaluate risk assessments at a system level, focusing on process, control, m
 - 💬 Ask me about how resiliency, risk, ethics, and customer experience can be intersectional.
 - 📫 How to reach me: Find me online and [Learn More.](https://www.linkedin.com/in/charhunte)
 - 😄 Portfolio Projects: See Below.
-##
-- ⚡ Portfolio List:⚡
-Portfolio notes listed below.
+#
+### ⚡Portfolio List:⚡
 
 | Portfolio Items       |          Project Title                                                         |
 |----------------------:|--------------------------------------------------------------------------------|
@@ -27,14 +25,14 @@ Portfolio notes listed below.
 | Parsing Files         | Importing and parsing security-related data                                    |
 
 ##
--  SPECIALIZATIONS:
+### -  SPECIALIZATIONS:
 - Professional Certifications
   - Google Cybersecurity Professional Certificate
   - CISSP - In progress
   - GRC/Compliance - In progress
   - CompTIA A+
 ##
-- ⚡COURSES:⚡
+### - ⚡COURSES:⚡
 - 🔭Professional Development Course, Cybersecurity, IT Services Management, IT Ops (certification courses)
   - Connect and Protect: Networks and Network Security
   - Tools of the Trade: Linux and SQL
@@ -46,7 +44,7 @@ Portfolio notes listed below.
   - Play It Safe: Manage Security Risks
   - CompTIA Network+
 ##
-- ⚡SKILLS and EXPERIENCE:⚡ 
+### - ⚡SKILLS and EXPERIENCE:⚡ 
 - Linux
 - Bash
 - Python Programming
@@ -64,7 +62,7 @@ Portfolio notes listed below.
 - Virtualization
 - TCP/IP networking
 ##
-- ⚡PROJECTS:⚡
+### - ⚡PROJECTS:⚡
 - 🔭Identify common risks, threats, and vulnerabilities, as well as techniques for mitigation
 - Hands-on experience with Python, Linux, and SQL.
 - 🔭Secure Networks against netwok intrusion, DoS attacks
