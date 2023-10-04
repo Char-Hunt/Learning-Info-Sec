@@ -3,7 +3,7 @@ My study notes for Learning InfoSec and Cyber Security 👨‍💻
 
 I evaluate risk assessments at a system level, focusing on process, control, monitoring or incident response and recovery activities.
 
-### Hi there 👋 Nice to meet you!
+## Hi there 👋 Nice to meet you!
 
 - 🔭 I’m currently working on InfoSec and Cybersecurity.
 - 🌱 I’m currently learning python, linux for SOC, ML, and IAM.
@@ -13,13 +13,19 @@ I evaluate risk assessments at a system level, focusing on process, control, m
 - 📫 How to reach me: Find me online and [Learn More.](https://www.linkedin.com/in/charhunte)
 - 😄 Portfolio Projects: See Below.
 ##
-- ⚡ Portfolio List (Links): •	[Conducting a security audit](xxx)
-•	Analyzing network structure and security
-•	Using Linux commands to manage file permissions
-•	[Applying filters to SQL queries](https://github.com/Char-Hunt/Data-Retrievals)
-•	Identifying vulnerabilities for a small business
-•	Documenting incidents with an incident handler’s journal 
-•	Importing and parsing a text file in a security-related scenario
+- ⚡ Portfolio List:⚡
+Portfolio notes listed below.
+
+| Portfolio Items       |          Project Title                                                         |
+|----------------------:|--------------------------------------------------------------------------------|
+|  Security Audit       | [Conducting a security audit](xxx)                                             |
+|  Network Traffic      | Analyzing network structure and security                                       |
+|  Linux                | Using Linux commands to manage file permissions                                |
+|  SQL                  | [Applying filters to SQL queries](https://github.com/Char-Hunt/Data-Retrievals)|
+| Vulns                 | Identifying vulnerabilities for a small business                               |
+| Documenting Incidents | Incident Handler’s Journal                                                     |
+| Parsing Files         | Importing and parsing security-related data                                    |
+
 ##
 -  SPECIALIZATIONS:
 - Professional Certifications
@@ -112,7 +118,5 @@ I evaluate risk assessments at a system level, focusing on process, control, m
 
 - ⚡ 
 - ⚡
-- ⚡
-- - ⚡
-- ⚡
+
   
