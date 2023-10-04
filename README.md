@@ -13,7 +13,7 @@ I evaluate risk assessments at a system level, focusing on process, control, m
 - 📫 How to reach me: Find me online and [Learn More.](https://www.linkedin.com/in/charhunte)
 - 😄 Portfolio Projects: See Below.
 ##
-- ⚡ Portfolio List (Links): •	Conducting a security audit
+- ⚡ Portfolio List (Links): •	[Conducting a security audit](xxx)
 •	Analyzing network structure and security
 •	Using Linux commands to manage file permissions
 •	[Applying filters to SQL queries](https://github.com/Char-Hunt/Data-Retrievals)
