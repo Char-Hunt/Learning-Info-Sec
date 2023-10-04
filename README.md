@@ -16,7 +16,7 @@ I evaluate risk assessments at a system level, focusing on process, control, m
 
 | Portfolio Items       |          Project Title                                                         |
 |----------------------:|--------------------------------------------------------------------------------|
-|  Security Audit       | [Conducting a security audit](xxx)                                             |
+|  Security Audit       | [Conducting a security audit](https://github.com/Char-Hunt/Projects-portfolio) |
 |  Network Traffic      | Analyzing network structure and security                                       |
 |  Linux                | Using Linux commands to manage file permissions                                |
 |  SQL                  | [Applying filters to SQL queries](https://github.com/Char-Hunt/Data-Retrievals)|
