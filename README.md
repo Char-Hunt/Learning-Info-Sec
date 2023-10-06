@@ -11,7 +11,7 @@ These are my study notes for Learning InfoSec and Cyber Security topics. Continu
 - 📫 How to reach me: Find me online and [Learn More.](https://www.linkedin.com/in/charhunte)
 - 😄 Portfolio Projects: See Below.
 #
-###⚡Portfolio List:⚡
+⚡Portfolio List:⚡
 
 | Portfolio Items       |          Project Title                                                         |
 |----------------------:|--------------------------------------------------------------------------------|
@@ -32,7 +32,7 @@ These are my study notes for Learning InfoSec and Cyber Security topics. Continu
   - GRC/Compliance - In progress
   - CompTIA A+
 ##
-###⚡COURSES:⚡
+⚡COURSES:⚡
 - 🔭Professional Development Course, Cybersecurity, IT Services Management, IT Ops (certification courses)
   - Connect and Protect: Networks and Network Security
   - Tools of the Trade: Linux and SQL
@@ -44,7 +44,7 @@ These are my study notes for Learning InfoSec and Cyber Security topics. Continu
   - Play It Safe: Manage Security Risks
   - CompTIA Network+
 ##
-###⚡SKILLS and EXPERIENCE:⚡ 
+⚡SKILLS and EXPERIENCE:⚡ 
 - Linux
 - Bash
 - Python Programming
@@ -64,7 +64,7 @@ These are my study notes for Learning InfoSec and Cyber Security topics. Continu
 - TCP/IP networking
 - Vulnerability Management and Nessus tools
 ##
-###⚡PROJECTS:⚡
+⚡PROJECTS:⚡
 - 🔭Identify common risks, threats, and vulnerabilities, as well as techniques for mitigation
 - Hands-on experience with Python, Linux, and SQL.
 - 🔭Secure Networks against netwok intrusion, DoS attacks
