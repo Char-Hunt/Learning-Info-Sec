@@ -50,6 +50,7 @@ These are my study notes for Learning InfoSec and Cyber Security topics.
 - Security Information and Event Management (SIEM) tools
 - Intrusion Detection Systems (IDS)
 - SQL / MySQL
+- Basic Algorithm scripting, algorithm development
 - Incident Reports and Documentation
 - 🔭Security Tools
   - Microsoft Windows Defender for Endpoint
@@ -60,6 +61,7 @@ These are my study notes for Learning InfoSec and Cyber Security topics.
   - Splunk 
 - Virtualization
 - TCP/IP networking
+- Vulnerability Management and Nessus tools
 ##
 ### - ⚡PROJECTS:⚡
 - 🔭Identify common risks, threats, and vulnerabilities, as well as techniques for mitigation
