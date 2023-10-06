@@ -15,6 +15,7 @@ These are my study notes for Learning InfoSec and Cyber Security topics. Continu
 
 | Portfolio Items       |          Project Title                                                         |
 |----------------------:|--------------------------------------------------------------------------------|
+|  Table of Contents    | [Lab Overview](https://github.com/Char-Hunt/special-guide#Contact)
 |  Security Audit       | [Conducting a security audit](https://github.com/Char-Hunt/Projects-portfolio) |
 |  Network Traffic      | Analyzing network structure and security                                       |
 |  Linux                | Using Linux commands to manage file permissions                                |
