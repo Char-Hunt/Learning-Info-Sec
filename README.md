@@ -1,4 +1,4 @@
-### Hi there 👋 Hi | Hello | bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | ஹலோ | Hola
+### Hi there 👋 Hi | Hello | bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | ஹலோ | Hola | Hallo | مرحبا
 These are my study notes for Learning InfoSec and Cyber Security topics.
 
 ## As a Cybersecurity Practioner, I evaluate risk assessments at a system level, focusing on process, control, monitoring or incident response and recovery activities. My focus is technical support engineering and management with emphasis on customer problem resolution, compliance, governance and risk.
