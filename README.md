@@ -1,7 +1,7 @@
 ### Hi there 👋 Hi | Hello | bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | ஹலோ | Hola
 These are my study notes for Learning InfoSec and Cyber Security topics.
 
-## As a cybersecurity practioner, I evaluate risk assessments at a system level, focusing on process, control, monitoring or incident response and recovery activities. My focus is Technical Support engineering and management with emphasis on customer problem resolution, compliance, governance and risk.
+## As a Cybersecurity Practioner, I evaluate risk assessments at a system level, focusing on process, control, monitoring or incident response and recovery activities. My focus is technical support engineering and management with emphasis on customer problem resolution, compliance, governance and risk.
 
 - 🔭 I’m currently working on InfoSec and Cybersecurity.
 - 🌱 I’m currently learning python, linux for SOC, ML, and IAM.
