@@ -15,7 +15,7 @@ Continuous learning and collaboration are the basic tenets of my security awaren
 
 | Portfolio Items       |          Project Title                                                         |
 |----------------------:|--------------------------------------------------------------------------------|
-|  Table of Contents    | [Lab Overview]( )
+|  Table of Contents    | [Lab Overview](https://github.com/Char-Hunt/special-guide)
 |  Security Audit       | [Conducting a security audit](https://github.com/Char-Hunt/Projects-portfolio) |
 |  Network Traffic      | Analyzing network structure and security                                       |
 |  Linux                | Using Linux commands to manage file permissions                                |
