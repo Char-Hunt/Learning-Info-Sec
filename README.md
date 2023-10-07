@@ -13,16 +13,16 @@ Continuous learning and collaboration are the basic tenets of my security awaren
 #
 ⚡Portfolio List:⚡
 
-| Portfolio Items       |          Project Title                                                         |
-|----------------------:|--------------------------------------------------------------------------------|
-|  Table of Contents    | [Lab Overview]( )
-|  Security Audit       | [Conducting a security audit](https://github.com/Char-Hunt/Projects-portfolio) |
-|  Network Traffic      | Analyzing network structure and security                                       |
-|  Linux                | Using Linux commands to manage file permissions                                |
-|  SQL                  | [Applying filters to SQL queries](https://github.com/Char-Hunt/Data-Retrievals)|
-| Vulns                 | Identifying vulnerabilities for a small business                               |
-| Documenting Incidents | Incident Handler’s Journal                                                     |
-| Parsing Files         | Importing and parsing security-related data                                    |
+| Portfolio Items       |          Project Title                                                                                      |
+|----------------------:|-------------------------------------------------------------------------------------------------------------|
+|  Table of Contents    | [Lab Overview]( )                                                                                           |
+|  Security Audit       | [Conducting a security audit](https://github.com/Char-Hunt/Projects-portfolio)                              |
+|  Network Traffic      | Analyzing network structure and security                                                                    |
+|  Linux                | Using Linux commands to manage file permissions                                                             |
+|  [SQL](https://github.com/Char-Hunt/special-guide) | [Applying filters to SQL queries](https://github.com/Char-Hunt/Data-Retrievals)|
+| Vulns                 | Identifying vulnerabilities for a small business                                                            |
+| Documenting Incidents | Incident Handler’s Journal                                                                                  |
+| Parsing Files         | Importing and parsing security-related data                                                                 |
 
 ##
 ### -  SPECIALIZATIONS:
@@ -50,7 +50,7 @@ Continuous learning and collaboration are the basic tenets of my security awaren
 - Python Programming
 - Security Information and Event Management (SIEM) tools
 - Intrusion Detection Systems (IDS)
-- [SQL](https://github.com/Char-Hunt/special-guide) / MySQL
+- [SQL](https://github.com/Char-Hunt/special-guide)
 - Basic Algorithm scripting, algorithm development
 - Incident Reports and Documentation
 - 🔭Security Tools
