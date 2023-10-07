@@ -1,9 +1,9 @@
 ### Hi there 👋 Hi | Hello | bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | ஹலோ | Hola | Hallo | مرحبا
-These are my study notes for Learning InfoSec and Cyber Security topics. Continuous learning and collaboration are the basic tenets of my security awareness philosophy.
+Continuous learning and collaboration are the basic tenets of my security awareness philosophy.
 
 ## As a Cybersecurity Practioner, I evaluate risk assessments at a system level, focusing on process, control, monitoring or incident response and recovery activities. My focus is technical support engineering and management with emphasis on customer problem resolution, compliance, governance and risk.
 
-- 🔭 I’m currently working on InfoSec and Cybersecurity.
+- 🔭 I’m currently working on InfoSec, IT Security and Cybersecurity.
 - 🌱 I’m currently learning python, linux for SOC, ML, and IAM.
 - 👯 I’m looking to collaborate on SIEM, DR, and vulnerability tools.
 - 🤔 I’m looking for help with threat assessment tips and any of the above.
@@ -15,7 +15,7 @@ These are my study notes for Learning InfoSec and Cyber Security topics. Continu
 
 | Portfolio Items       |          Project Title                                                         |
 |----------------------:|--------------------------------------------------------------------------------|
-|  Table of Contents    | [Lab Overview](https://github.com/Char-Hunt/special-guide#Contact)
+|  Table of Contents    | [Lab Overview](https://github.com/Char-Hunt/special-guide)
 |  Security Audit       | [Conducting a security audit](https://github.com/Char-Hunt/Projects-portfolio) |
 |  Network Traffic      | Analyzing network structure and security                                       |
 |  Linux                | Using Linux commands to manage file permissions                                |
