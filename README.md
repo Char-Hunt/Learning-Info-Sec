@@ -1,7 +1,7 @@
 ### Hi there 👋 Hi | Hello | bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | ஹலோ | Hola | Hallo | مرحبا
 Continuous learning and collaboration are the basic tenets of my security awareness philosophy.
 
-## As a Cybersecurity Practioner, I evaluate risk assessments at a system level, focusing on process, control, monitoring or incident response and recovery activities. My focus is technical support engineering and management with emphasis on customer problem resolution, compliance, governance and risk.
+## As a Cybersecurity Practioner, I evaluate risk assessments at a system level, focusing on process, controls, monitoring or incident response and recovery activities. My emphasis is ITSM and enginerring with an eye toward customer problem resolution, compliance, governance and risk.
 
 - 🔭 I’m currently working on InfoSec, IT Security and Cybersecurity.
 - 🌱 I’m currently learning python, linux for SOC, ML, and IAM.
@@ -15,7 +15,7 @@ Continuous learning and collaboration are the basic tenets of my security awaren
 
 | Portfolio Items       |          Project Title                                                         |
 |----------------------:|--------------------------------------------------------------------------------|
-|  Table of Contents    | [Lab Overview](https://github.com/Char-Hunt/special-guide)
+|  Table of Contents    | [Lab Overview]( )
 |  Security Audit       | [Conducting a security audit](https://github.com/Char-Hunt/Projects-portfolio) |
 |  Network Traffic      | Analyzing network structure and security                                       |
 |  Linux                | Using Linux commands to manage file permissions                                |
