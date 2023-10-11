@@ -21,7 +21,7 @@ Continuous learning and collaboration are the basic tenets of my security awaren
 |  Linux                | Using Linux commands to manage file permissions                                                             |
 |  [SQL](https://github.com/Char-Hunt/special-guide) | [Applying filters to SQL queries](https://github.com/Char-Hunt/Data-Retrievals)|
 | Vulns                 | Identifying vulnerabilities for a small business                                                            |
-| Documenting Incidents | Incident Handler’s Journal                                                                                  |
+| Documenting Incidents | [Incident Handler’s Journal](https://docs.google.com/document/d/17e0ZL6dwfUHkdQsERRJkqtkZW5YFg3vr4lH3XlyEgCQ/edit?pli=1) |
 | Parsing Files         | Importing and parsing security-related data                                                                 |
 
 ##
