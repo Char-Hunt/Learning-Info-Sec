@@ -61,7 +61,9 @@ Continuous learning and collaboration are the basic tenets of my security awaren
   - Nmap Security Scanning
   - tcpdump
   - Vulnerability Management with Nessus
-  - Splunk 
+  - Splunk
+  - CISCO for Endpoints / Meraki / Firepower
+  - Alien Vault
 - Virtualization
 - TCP/IP networking
 - Vulnerability Management and Nessus tools
