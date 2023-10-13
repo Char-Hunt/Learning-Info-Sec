@@ -45,6 +45,7 @@ Continuous learning and collaboration are the basic tenets of my security awaren
   - CompTIA Network+
   - CompTIA A+
   - ISC2 Certified in Cybersecurity
+  - ITIL
 ##
 ⚡SKILLS and EXPERIENCE:⚡ 
 - Linux
