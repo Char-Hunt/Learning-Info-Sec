@@ -43,6 +43,8 @@ Continuous learning and collaboration are the basic tenets of my security awaren
   - Assets, Threats, and Vulnerabilities
   - Play It Safe: Manage Security Risks
   - CompTIA Network+
+  - CompTIA A+
+  - ISC2 Certified in Cybersecurity
 ##
 ⚡SKILLS and EXPERIENCE:⚡ 
 - Linux
