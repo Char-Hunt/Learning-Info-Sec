@@ -10,6 +10,8 @@ Continuous learning and collaboration are the basic tenets of my security awaren
 - 💬 Ask me about how resiliency, risk, ethics, and customer experience can be intersectional.
 - 📫 How to reach me: Find me online and [Learn More.](https://www.linkedin.com/in/charhunte)
 - 😄 Portfolio Projects: See Below.
+- 👉 I value exchanging insights, trends, and resources relevant to navigating change, on our own terms.
+Watching societal interactions, tech advancements, and cultural developments teaches me daily about human nature, society, and personal resilience.
 #
 ### ⚡Portfolio List:⚡
 
@@ -63,11 +65,12 @@ Continuous learning and collaboration are the basic tenets of my security awaren
   - tcpdump
   - Vulnerability Management with Nessus
   - Splunk
-  - CISCO for Endpoints / Meraki / Firepower
-  - Alien Vault
+  - CISCO Secure Endpoint / Meraki / Firepower
+  - Alien Vault, OneAgent, SIEM, IBM QRadar, Crowdstrike Falcon
 - Virtualization
 - TCP/IP networking
 - Vulnerability Management and Nessus tools
+- CYBERSECURITY: IT Audit, ITGC, Systems Administration, Network Security, Technical requirements, Information Security, threat and vulnerability management, Risk Assessment and design reviews, Controls/Standards ISO-27001, NIST-800, PCI, HIPAA, NIST 800-82, GDPR, NISTIR 8286, NIST SP 800-30, Malware Analysis, Security Architecture, Risk Appetite, Vulnerability Assessment
 ##
 ⚡PROJECTS:⚡
 - 🔭Identify common risks, threats, and vulnerabilities, as well as techniques for mitigation
