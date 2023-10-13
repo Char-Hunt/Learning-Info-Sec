@@ -11,7 +11,7 @@ Continuous learning and collaboration are the basic tenets of my security awaren
 - 📫 How to reach me: Find me online and [Learn More.](https://www.linkedin.com/in/charhunte)
 - 😄 Portfolio Projects: See Below.
 #
-⚡Portfolio List:⚡
+### ⚡Portfolio List:⚡
 
 | Portfolio Items       |          Project Title                                                                                      |
 |----------------------:|-------------------------------------------------------------------------------------------------------------|
