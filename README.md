@@ -8,7 +8,7 @@ Continuous learning and collaboration are the basic tenets of my security awaren
 - 👯 I’m looking to collaborate on SIEM, DR, and vulnerability tools.
 - 🤔 I’m looking for help with threat assessment tips and any of the above.
 - 💬 Ask me about how resiliency, risk, ethics, and customer experience can be intersectional.
-- 📫 How to reach me: Find me online and [Learn More.](https://www.linkedin.com/in/charhunte)
+- 📫 How to reach me: Find me online and [Learn More.](https://solo.to/treadm1ll)
 - 😄 Portfolio Projects: See Below.
 - 👉 I value exchanging insights, trends, and resources relevant to navigating change, on our own terms.
 Watching societal interactions, tech advancements, and cultural developments teaches me daily about human nature, society, and personal resilience.
