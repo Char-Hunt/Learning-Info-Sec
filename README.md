@@ -72,15 +72,26 @@ Watching societal interactions, tech advancements, and cultural developments tea
 - CYBERSECURITY: IT Audit, ITGC, Systems Administration, Network Security, Technical requirements, Information Security, threat and vulnerability management, Risk Assessment and design reviews, Controls/Standards ISO-27001, NIST-800, PCI, HIPAA, NIST 800-82, GDPR, NISTIR 8286, NIST SP 800-30, Malware Analysis, Security Architecture, Risk Appetite, Vulnerability Assessment
 ##
 ⚡PROJECTS:⚡
-- 🔭Identify common risks, threats, and vulnerabilities, as well as techniques for mitigation
-- Hands-on experience with Python, Linux, and SQL.
-- 🔭Secure Networks against netwok intrusion, DoS attacks
-  - Read tcpdump logs, Real-life DDoS attack, Analyze: network layer communication
+- 🔭Safeguard information
+- 🔭Digital and physical assets
+- 🔭Elements of a security plan
+  - The NIST Cybersecurity Framework
+  -  Security guidelines in action, Security Controls 
 - 🔭Network Attacks and defense
   - Overview of interception tactics
   - Identify: Network attacks, Analyze: network attacks
 - 🔭Security Information and Event Management (SIEM) tools
+ - 🔭Secure Networks against netwok intrusion, DoS attacks
+  - Read tcpdump logs, Real-life DDoS attack, Analyze: network layer communication
 - 🔭Identify common risks, threats, and vulnerabilities, as well as techniques for mitigation
+- Hands-on experience with Python, Linux, and SQL.
+- 🔭Fundamentals of cryptography
+  - Public key infrastructure
+  - Symmetric and asymmetric encryption
+  - LAB ACTIVITY: Decrypt an encrypted message
+  - Non-repudiation and hashing
+  - The evolution of hash functions
+  - LAB ACTIVITY: Create hash values
 - 🔭Automate Tasks Cybersecurity Tasks with Python
   - Create a basic Python script
   - Overview Python environments
@@ -100,25 +111,13 @@ Watching societal interactions, tech advancements, and cultural developments tea
   - LAB ACTIVITY: Improve authentication, authorization, and accounting for a small business
   - Access controls and authentication systems, The mechanisms of authorization
   - Why do we audit user activity
-- 🔭Digital and physical assets
 - 🔭Risk and asset security - How organizations determine what assets to protect.
   - Managing risk and classifying assets based on challenges of securing physical and digital assets.
   - Best Practices to manage cybersecurity risk
   - LAB ACTIVITY: Score risks based on likelihood and severity
-- 🔭Safeguard information
-- 🔭Elements of a security plan
-  - The NIST Cybersecurity Framework
-  -  Security guidelines in action, Security Controls 
 - 🔭Encryption methods
   - Principle of least privilege
   - The data lifecycle
   - Information privacy: Regulations and compliance
   - LAB ACTIVITY: Determine appropriate data handling practices
-- 🔭Fundamentals of cryptography
-  - Public key infrastructure
-  - Symmetric and asymmetric encryption
-  - LAB ACTIVITY: Decrypt an encrypted message
-  - Non-repudiation and hashing
-  - The evolution of hash functions
-  - LAB ACTIVITY: Create hash values
 ##
