@@ -38,14 +38,14 @@ Watching societal interactions, tech advancements, and cultural developments tea
 - 🔭Professional Development Course, Cybersecurity, IT Services Management, IT Ops (certification courses)
   - Connect and Protect: Networks and Network Security
   - CompTIA Network+
-  - CompTIA A+
-  - ISC2 Certified in Cybersecurity
   - Assets, Threats, and Vulnerabilities
+  - CompTIA A+
+  - Sound the Alarm: Detection and Response
+  - ISC2 Certified in Cybersecurity
   - Tools of the Trade: Linux and SQL
   - Automate Cybersecurity Tasks with Python
   - Foundations of Cybersecurity
-  - ITIL
-  - Sound the Alarm: Detection and Response
+  - ITIL v3
  
 ##
 ⚡SKILLS and EXPERIENCE:⚡ 
@@ -76,6 +76,10 @@ Watching societal interactions, tech advancements, and cultural developments tea
 ⚡PROJECTS:⚡
 - 🔭Safeguard information
 - 🔭Digital and physical assets
+  - Principle of least privilege
+  - The data lifecycle
+  - Information privacy: Regulations and compliance
+  - LAB ACTIVITY: Determine appropriate data handling practices
 - 🔭Elements of a security plan
   - The NIST Cybersecurity Framework
   -  Security guidelines in action, Security Controls 
@@ -119,8 +123,4 @@ Watching societal interactions, tech advancements, and cultural developments tea
   - Best Practices to manage cybersecurity risk
   - LAB ACTIVITY: Score risks based on likelihood and severity
 - 🔭Encryption methods
-  - Principle of least privilege
-  - The data lifecycle
-  - Information privacy: Regulations and compliance
-  - LAB ACTIVITY: Determine appropriate data handling practices
 ##
