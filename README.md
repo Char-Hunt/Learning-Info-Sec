@@ -37,17 +37,16 @@ Watching societal interactions, tech advancements, and cultural developments tea
 ⚡COURSES:⚡
 - 🔭Professional Development Course, Cybersecurity, IT Services Management, IT Ops (certification courses)
   - Connect and Protect: Networks and Network Security
-  - Tools of the Trade: Linux and SQL
-  - Automate Cybersecurity Tasks with Python
-  - Put It to Work: Prepare for Cybersecurity Jobs and tasks
-  - Foundations of Cybersecurity
-  - Sound the Alarm: Detection and Response
-  - Assets, Threats, and Vulnerabilities
-  - Play It Safe: Manage Security Risks
   - CompTIA Network+
   - CompTIA A+
   - ISC2 Certified in Cybersecurity
+  - Assets, Threats, and Vulnerabilities
+  - Tools of the Trade: Linux and SQL
+  - Automate Cybersecurity Tasks with Python
+  - Foundations of Cybersecurity
   - ITIL
+  - Sound the Alarm: Detection and Response
+ 
 ##
 ⚡SKILLS and EXPERIENCE:⚡ 
 - Linux
