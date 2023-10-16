@@ -53,6 +53,8 @@ Watching societal interactions, tech advancements, and cultural developments tea
 - Bash
 - Python Programming
 - Security Information and Event Management (SIEM) tools
+- Cloud
+- Saas
 - Intrusion Detection Systems (IDS)
 - [SQL](https://github.com/Char-Hunt/special-guide)
 - Basic Algorithm scripting, algorithm development
@@ -85,6 +87,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
   - Read tcpdump logs, Real-life DDoS attack, Analyze: network layer communication
 - 🔭Identify common risks, threats, and vulnerabilities, as well as techniques for mitigation
 - Hands-on experience with Python, Linux, and SQL.
+- 🔭File / Directory privileges: Linux Administraton
 - 🔭Fundamentals of cryptography
   - Public key infrastructure
   - Symmetric and asymmetric encryption
