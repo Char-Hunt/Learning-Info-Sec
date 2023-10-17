@@ -1,7 +1,6 @@
 ### Hi there 👋 Hi | Hello | bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | ஹலோ | Hola | Hallo | مرحبا
-Continuous learning and collaboration are the basic tenets of my security awareness philosophy.
 
-## As a Cybersecurity Practioner, I evaluate risk assessments at a system level, focusing on process, controls, monitoring or incident response and recovery activities; ITSM and engineering with an eye toward customer problem resolution, compliance, governance and risk.
+### As a Cybersecurity Practioner, I evaluate risk assessments at a system level focusing on process, controls, monitoring, or incident response and recovery activities; I'm focused on helping organizations achieve cyber resilience and awareness through effective combinations of empathy and technology; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. 
 
 - 🔭 I’m currently working on InfoSec, IT Security and Cybersecurity.
 - 🌱 I’m currently learning python, linux for SOC, ML, and IAM.
