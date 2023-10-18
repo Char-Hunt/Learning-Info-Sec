@@ -123,3 +123,5 @@ Watching societal interactions, tech advancements, and cultural developments tea
   - LAB ACTIVITY: Score risks based on likelihood and severity
 - 🔭Encryption methods
 ##
+
+Visit these helpful [forums](https://github.com/Char-Hunt/Forums/blob/main/README.md#forums ) for further Learning & Development.
