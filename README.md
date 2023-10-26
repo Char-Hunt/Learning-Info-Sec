@@ -83,7 +83,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
   - LAB ACTIVITY: Determine appropriate data handling practices
 - 🔭Elements of a security plan
   - The NIST Cybersecurity Framework
-  -  Security guidelines in action, Security Controls and [frameworks]( )
+  -  Security guidelines in action, Security Controls and [frameworks](https://github.com/Char-Hunt/Learning-Info-Sec/edit/main/README.md#frameworks-and-controls)
 - 🔭Network Attacks and defense
   - Overview of interception tactics
   - Identify: Network attacks, Analyze: network attacks
@@ -133,8 +133,10 @@ Watching societal interactions, tech advancements, and cultural developments tea
 ### Frameworks and Controls
 The Pyramid of Pain is a conceptual model for the effective use of Cyber Threat Intelligence in threat detection operations, with a particular emphasis on increasing the adversaries' cost of operations. It's methoed for understanding cybersecurity threats that organizes IOCs into six different levels. 
 Information security expert **David J. Bianco** was the first to formalize this idea.
+#
 Bianco's philosophy -- "Forget the Defender's Dilemma and recognize that we have a lot of chances to succeed. We may not have the resources to take them all, but by choosing wisely, we can make an attacker's job MUCH harder while giving ourselves the best chance of success."
-His concepts and ideas have helped shape the landscape of hacker defensive tactics. 
+#
+Bianco's concepts and ideas have helped shape the landscape of hacker defensive tactics and instrusion analysis.
 
 ![pain pyramid](https://github.com/Char-Hunt/Learning-Info-Sec/assets/138831832/c5567814-c8ad-485e-8e11-bcc12243d593)
 
