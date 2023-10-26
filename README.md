@@ -83,7 +83,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
   - LAB ACTIVITY: Determine appropriate data handling practices
 - 🔭Elements of a security plan
   - The NIST Cybersecurity Framework
-  -  Security guidelines in action, Security Controls and [frameworks](https://github.com/Char-Hunt/Learning-Info-Sec/edit/main/README.md#frameworks-and-controls)
+  -  Security guidelines in action, Security Controls and [frameworks](https://github.com/Char-Hunt/Learning-Info-Sec#frameworks-and-controls)
 - 🔭Network Attacks and defense
   - Overview of interception tactics
   - Identify: Network attacks, Analyze: network attacks
