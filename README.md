@@ -95,7 +95,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
 - 🔭File / Directory privileges: Linux Administraton
 - 🔭Fundamentals of cryptography
   - Public key infrastructure
-  - Symmetric and asymmetric encryption
+  - Symmetric and asymmetric [encryption](https://github.com/Char-Hunt/Learning-Info-Sec/blob/main/README.md#types-of-encryption)
   - LAB ACTIVITY: Decrypt an encrypted message
   - Non-repudiation and hashing
   - The evolution of hash functions
