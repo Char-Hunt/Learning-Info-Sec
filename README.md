@@ -140,6 +140,19 @@ Bianco's concepts and ideas have helped shape the landscape of hacker defensive 
 
 ![pain pyramid](https://github.com/Char-Hunt/Learning-Info-Sec/assets/138831832/c5567814-c8ad-485e-8e11-bcc12243d593)
 
+### Types of encryption
+
+You may be wondering, “What are the types of encryption?”.  This is a good quesiton to ask. Computerized encryption methods generally belong to one of two kinds of encryption:
+
+   - Symmetric key encryption
+   - Public key encryption
+
+Public-key cryptography is sometimes called asymmetric cryptography. It is an encryption scheme that uses two mathematically related, but non-identical, keys. One is a **public** key and the other a **private** key. Unlike symmetric key algorithms that rely on a sngle key to handle the encrypt and decrypt functions, each key performs a unique process. The **public key** is used to encrypt and the **private** key is used to decrypt data. In this example we will use plain text to illustrate how encryption The mathematical relation, or hash, makes it possible to encode a message using a person’s public key. To decode it you need the matching private key so that the text or data can be recognizably read. Here's an infographic that outlines the flow: 
+##
+⚡Understanding Public Key Encryption w/TechieChar⚡
+
+![PXch1](https://github.com/Char-Hunt/Learning-Info-Sec/assets/138831832/adac9540-f292-432c-81be-a3d4b7459298)
+
 ##
 
 Visit these Helpful [Forums](https://github.com/Char-Hunt/Forums/blob/main/README.md#forums ) for further Learning & Development.
