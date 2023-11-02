@@ -56,9 +56,21 @@ Watching societal interactions, tech advancements, and cultural developments tea
 - Security Information and Event Management (SIEM) tools
 - Cloud
 - Saas
-- Intrusion Detection Systems (IDS)
+- Intrusion Detection Systems (IDS) and IDS tools
 - [SQL](https://github.com/Char-Hunt/special-guide)
 - Basic Algorithm scripting, algorithm development
+- Authentication
+- Cybersecurity Assessment
+- Information Assurance
+- Information Security
+- Information Systems
+- Network Analyzer (sniffing) tools
+- NIST Cybersecurity Framework
+- Risk Assessment
+- Risk Management Framework
+- SQL
+- Threat Analysis
+- Vulnerability Assessment
 - Incident Reports and Documentation
 - 🔭Security Tools
   - Microsoft Windows Defender for Endpoint
@@ -72,7 +84,8 @@ Watching societal interactions, tech advancements, and cultural developments tea
 - Virtualization
 - TCP/IP networking
 - Vulnerability Management and Nessus tools
-- CYBERSECURITY: IT Audit, ITGC, Systems Administration, Network Security, Technical requirements, Information Security, threat and vulnerability management, Risk Assessment and design reviews, Controls/Standards ISO-27001, NIST-800, PCI, HIPAA, NIST 800-82, GDPR, NISTIR 8286, NIST SP 800-30, Malware Analysis, Security Architecture, Risk Appetite, Vulnerability Assessment
+- CYBERSECURITY: IT Audit, ITGC, Systems Administration, Network Security, Technical requirements, Information Security, threat and vulnerability management, Risk Assessment and design reviews, Controls/Standards ISO-27001, NIST-800, PCI, HIPAA, NIST 800-82, GDPR, NISTIR 8286, NIST SP 800-30, Malware Analysis, Security Architecture, Risk Appetite, Vulnerability Assessment, Access Controls, BC / DR / IR Concepts, Security Operations, Security Principles
+    
 ##
 ⚡PROJECTS:⚡
 - 🔭Safeguard information
