@@ -49,7 +49,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
   - ITIL v3
  
 ##
-⚡SKILLS and EXPERIENCE:⚡ 
+⚡**SKILLS and EXPERIENCE**:⚡ 
 - Linux
 - Bash
 - Python Programming
@@ -68,7 +68,6 @@ Watching societal interactions, tech advancements, and cultural developments tea
 - NIST Cybersecurity Framework
 - Risk Assessment
 - Risk Management Framework
-- SQL
 - Threat Analysis
 - Vulnerability Assessment
 - Incident Reports and Documentation
