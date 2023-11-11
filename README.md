@@ -165,8 +165,7 @@ So, say for example we need to confidentally send a plain text message to someon
 ##
 ⚡Understanding Public Key Encryption⚡
 
-![PXch1](https://github.com/Char-Hunt/Learning-Info-Sec/assets/138831832/adac9540-f292-432c-81be-a3d4b7459298)
-
+![PXch2](https://github.com/Char-Hunt/Learning-Info-Sec/assets/138831832/875517cd-904b-4ad8-9997-3b02b9678225)
 ##
 
 Visit these Helpful [Forums](https://github.com/Char-Hunt/Forums/blob/main/README.md#forums ) for further Learning & Development.
