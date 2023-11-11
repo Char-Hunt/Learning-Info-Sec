@@ -144,7 +144,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
  
 ### Frameworks and Controls
 The **_Pyramid of Pain_** is a conceptual model for the effective use of Cyber Threat Intelligence in threat detection operations, with a particular emphasis on increasing the adversaries' cost of operations. It's methoed for understanding cybersecurity threats that organizes IOCs into six different levels. 
-Information security expert **David J. Bianco** was the first to formalize this idea.
+Information security expert **DAVID J. BIANCO** was the first to formalize this idea.
 
      Bianco's philosophy -- "Forget the Defender's Dilemma and recognize that we have a lot of chances to succeed. We may not have the resources to take them all, but by choosing wisely, we can make an attacker's job MUCH harder while giving ourselves the best chance of success."
 
