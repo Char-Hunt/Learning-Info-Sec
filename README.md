@@ -83,7 +83,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
 - Virtualization
 - TCP/IP networking
 - Vulnerability Management and Nessus tools
-- CYBERSECURITY: IT Audit, ITGC, Systems Administration, Network Security, Technical requirements, Information Security, threat and vulnerability management, Risk Assessment and design reviews, Controls/Standards ISO-27001, NIST-800, PCI, HIPAA, NIST 800-82, GDPR, NISTIR 8286, NIST SP 800-30, Malware Analysis, Security Architecture, Risk Appetite, Vulnerability Assessment, Access Controls, BC / DR / IR Concepts, Security Operations, Security Principles
+- CYBERSECURITY: IT Audit, ITGC, Systems Administration, Network Security, Technical requirements, Information Security, threat and vulnerability management, Risk Assessment and design reviews, Controls/Standards ISO-27001, NIST-800, PCI, NIST SP 800-39, HIPAA, NIST 800-82, GDPR, NISTIR 8286, NIST SP 800-30, Malware Analysis, Security Architecture, Risk Appetite, Vulnerability Assessment, Access Controls, BC / DR / IR Concepts, Security Operations, Security Principles
     
 ##
 ⚡PROJECTS:⚡
@@ -148,8 +148,8 @@ Information security expert **DAVID J. BIANCO** was the first to formalize this 
 
      Bianco's philosophy -- "Forget the Defender's Dilemma and recognize that we have a lot of chances to succeed. We may not have the resources to take them all, but by choosing wisely, we can make an attacker's job MUCH harder while giving ourselves the best chance of success."
 
-Bianco's concepts and ideas have helped shape the landscape of hacker defensive tactics and instrusion analysis.
-
+**David Bianco's concepts and ideas have helped shape the landscape of hacker defensive tactics and instrusion analysis.
+**__
 ![pain pyramid](https://github.com/Char-Hunt/Learning-Info-Sec/assets/138831832/c5567814-c8ad-485e-8e11-bcc12243d593)
 
 ### Types of encryption
