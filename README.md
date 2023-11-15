@@ -148,8 +148,7 @@ Information security expert **DAVID J. BIANCO** was the first to formalize this 
 
      Bianco's philosophy -- "Forget the Defender's Dilemma and recognize that we have a lot of chances to succeed. We may not have the resources to take them all, but by choosing wisely, we can make an attacker's job MUCH harder while giving ourselves the best chance of success."
 
-**David Bianco's concepts and ideas have helped shape the landscape of hacker defensive tactics and instrusion analysis.
-**__
+David Bianco's concepts and ideas have helped shape the landscape of hacker defensive tactics and instrusion analysis.
 ![pain pyramid](https://github.com/Char-Hunt/Learning-Info-Sec/assets/138831832/c5567814-c8ad-485e-8e11-bcc12243d593)
 
 ### Types of encryption
