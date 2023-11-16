@@ -140,7 +140,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
 - 🔭Risk and asset security - How organizations determine what assets to protect.
   - Managing risk and classifying assets based on challenges of securing physical and digital assets.
   - Best Practices to manage cybersecurity risk
-  - LAB ACTIVITY: Score risks based on likelihood and severity
+  - LAB ACTIVITY: Score risks based on likelihood and severity, or **how to calculate CVE and CVSS scores**.
  
 ### Frameworks and Controls
 The **_Pyramid of Pain_** is a conceptual model for the effective use of Cyber Threat Intelligence in threat detection operations, with a particular emphasis on increasing the adversaries' cost of operations. It's method for understanding cybersecurity threats that organizes IOCs into six different levels. 
