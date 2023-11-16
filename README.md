@@ -143,7 +143,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
   - LAB ACTIVITY: Score risks based on likelihood and severity
  
 ### Frameworks and Controls
-The **_Pyramid of Pain_** is a conceptual model for the effective use of Cyber Threat Intelligence in threat detection operations, with a particular emphasis on increasing the adversaries' cost of operations. It's methoed for understanding cybersecurity threats that organizes IOCs into six different levels. 
+The **_Pyramid of Pain_** is a conceptual model for the effective use of Cyber Threat Intelligence in threat detection operations, with a particular emphasis on increasing the adversaries' cost of operations. It's method for understanding cybersecurity threats that organizes IOCs into six different levels. 
 Information security expert **DAVID J. BIANCO** was the first to formalize this idea.
 
      Bianco's philosophy -- "Forget the Defender's Dilemma and recognize that we have a lot of chances to succeed. We may not have the resources to take them all, but by choosing wisely, we can make an attacker's job MUCH harder while giving ourselves the best chance of success."
@@ -158,9 +158,9 @@ You may be wondering, “What are the types of encryption?” This is a good que
    - Symmetric key encryption
    - Public key encryption
 
-Public-key cryptography is sometimes called asymmetric cryptography. It is an encryption scheme that uses two mathematically related, but non-identical, keys. One is a **public** key and the other a **private** key. Unlike symmetric key algorithms that rely on a sngle key to handle the encrypt and decrypt functions, each key performs a unique process. The **public key** is used to _encrypt_ and the **private** key is used to _decrypt_ data. 
+Public-key cryptography is sometimes called asymmetric cryptography. It is an encryption scheme that uses two mathematically related, but non-identical, keys. One is a **public** key and the other a **private** key. Unlike symmetric key algorithms that rely on a single key to handle the encrypt and decrypt functions, each key performs a unique process. The **public key** is used to _encrypt_ and the **private** key is used to _decrypt_ data. 
 
-So, say for example we need to confidentally send a plain text message to someone. We'll use our friends "Alice" and "Bob" to illustrate how it works. In a nutshell, the mathematical relation, or "_hash_", makes it possible to encode a message using a person’s public key. To decode it a matching private key is used so that the plain text or data is recognizable on the recipients's end. Here's an infographic that outlines the flow: 
+So, say for example we need to confidentially send a plain text message to someone. We'll use our friends "Alice" and "Bob" to illustrate how it works. In a nutshell, the mathematical relation, sometimes referred to as a "_hash_", in certain forms, makes it possible to encode a message using a person’s public key. To decode it a matching private key is used so that the plain text or data is recognizable on the recipients's end. Here's an infographic that outlines the flow: 
 ##
 ⚡Understanding Public Key Encryption⚡
 
