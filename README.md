@@ -1,6 +1,9 @@
 ### Hi there 👋 bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | Hallo | مرحبا | ஹலோ | Hola
 
-My name is Char! As a [Cybersecurity Practioner](https://github.com/Char-Hunt/Char-Hunt) I evaluate risk assessments at a system level focusing on process, controls, monitoring, or incident response and recovery activities; I'm focused on helping organizations achieve cyber resilience and awareness through effective combinations of empathy and technology; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. 
+My name is Char! As a [Cybersecurity Practioner and Business IT Consultant](https://github.com/Char-Hunt/Char-Hunt) I leverage my 10+ years of experience in technology to provide solutions for enterprise environments. I have a strong background in IT infrastructure analysis, IT service management, and core business operations architecture, as well as certifications in CISSP (in progress), CC, Security+, A+, and GRC.
+
+I evaluate risk assessments at a system level focusing on process, controls frameworks, monitoring, or incident response and recovery activities; I'm focused on helping organizations achieve cyber resilience and awareness through effective combinations of empathy and technology; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. 
+I excel at finding solutions for complex problems, delivering customer care excellence, and facilitating efficiencies, accountability, integrity, and results.
 
 - 🔭 I’m currently working on InfoSec, IT Security and Cybersecurity.
 - 🌱 I’m currently learning python, linux for SOC, ML, and IAM.
