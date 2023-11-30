@@ -47,6 +47,8 @@ Watching societal interactions, tech advancements, and cultural developments tea
   - Automate Cybersecurity Tasks with Python
   - Foundations of Cybersecurity
   - ITIL v3
+  - SOC 2 Compliance Essential Training
+  - Project Management Institute Cybersecurity Foundations: Governance, Risk, and Compliance (GRC)
  
 ##
 ⚡**SKILLS and EXPERIENCE**:⚡ 
@@ -74,16 +76,21 @@ Watching societal interactions, tech advancements, and cultural developments tea
 - 🔭Security Tools
   - Microsoft Windows Defender for Endpoint
   - Wireshark
+  - Splunk
   - Nmap Security Scanning
   - tcpdump
-  - Vulnerability Management with Nessus
-  - Splunk
+  - Vulnerability Management with Nessus, Burp Suite, Kali Linux, Risk Mitigation
   - CISCO Secure Endpoint / Meraki / Firepower
   - Alien Vault, OneAgent, SIEM, IBM QRadar, Crowdstrike Falcon
-- Virtualization
+  - Network Security: Wireless Security, Cloud Security, Cryptography, Firewall Configuration & Administration, VPN, Ports, IoT, IDS, IPS Router Configuration,Packet Capture & Analysis, Log Analysis, network monitoring
+- Virtualization: VMware, Hyper-V, Configuring Ubuntu & Kali Linux Machines
 - TCP/IP networking
-- Vulnerability Management and Nessus tools
+- Identity & Access Management (IAM): Active Directory, AWS, Azure, Access Control Lists, User Permissions & Security Groups
+- Risk, Governance & Compliance: Regulatory Frameworks, Security Auditing, Compliance Checking, Identity Governance, Data Security & Privacy, Security Policy, Mobile Device Management
 - CYBERSECURITY: IT Audit, ITGC, Systems Administration, Network Security, Technical requirements, Information Security, threat and vulnerability management, Risk Assessment and design reviews, Controls/Standards ISO-27001, NIST-800, PCI, NIST SP 800-39, HIPAA, NIST 800-82, GDPR, NISTIR 8286, NIST SP 800-30, Malware Analysis, Security Architecture, Risk Appetite, Vulnerability Assessment, Access Controls, BC / DR / IR Concepts, Security Operations, Security Principles
+- Operating Systems: Windows, Linux/Unix, MacOS
+- Database Security: Microsoft SQL Server
+- Web Application Security: OWASP
     
 ##
 ⚡PROJECTS:⚡
