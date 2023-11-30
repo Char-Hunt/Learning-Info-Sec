@@ -31,7 +31,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
   - Google Cybersecurity Professional Certificate
   - ISC2 Certified in Cybersecurity Certificate
   - CISSP - In progress
-  - GRC/Compliance - In progress
+  - GRC/Compliance
   - CompTIA Security+ - In  progress
   - CompTIA A+
 ##
