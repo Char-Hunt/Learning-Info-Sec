@@ -97,8 +97,8 @@ Watching societal interactions, tech advancements, and cultural developments tea
     
 ##
 ⚡PROJECTS:⚡
-- 🔭Safeguard information
-- 🔭Digital and physical assets
+- 🔭Safeguarding digital information
+  - Digital and physical assets
   - Principle of least privilege
   - The data lifecycle
   - Information privacy: Regulations and compliance
@@ -106,23 +106,22 @@ Watching societal interactions, tech advancements, and cultural developments tea
 - 🔭Elements of a security plan
   - The NIST Cybersecurity Framework
   -  Security guidelines in action, Security Controls and [frameworks](https://github.com/Char-Hunt/Learning-Info-Sec#frameworks-and-controls)
-- 🔭Network Attacks and defense
-  - Overview of interception tactics
+- 🔭Network Attacks and defense **Overview of interception tactics**
   - Identify: Network attacks, Analyze: network attacks
 - 🔭Security Information and Event Management (SIEM) tools
  - 🔭Secure Networks against netwok intrusion, DoS attacks
   - Read tcpdump logs, Real-life DDoS attack, Analyze: network layer communication
 - 🔭Identify common risks, threats, and vulnerabilities, as well as techniques for mitigation
-- Hands-on experience with Python, Linux, and SQL.
-- 🔭File / Directory privileges: Linux Administraton
-- 🔭Fundamentals of cryptography
+- **Hands-on** experience with Python, Linux, and SQL.
+- 🔭File / Directory privileges: **Linux Administraton**
+- 🔭Fundamentals of **Cryptography**
   - Public key infrastructure
   - Symmetric and asymmetric [encryption](https://github.com/Char-Hunt/Learning-Info-Sec/blob/main/README.md#types-of-encryption)
   - LAB ACTIVITY: Decrypt an encrypted message
   - Non-repudiation and hashing
   - The evolution of hash functions
 - 🔭Encryption methods
-   - LAB ACTIVITY: Create hash values
+   - LAB ACTIVITY: **Create hash values**
 - 🔭Automate Tasks Cybersecurity Tasks with Python
   - Create a basic Python script
   - Overview Python environments
@@ -137,11 +136,11 @@ Watching societal interactions, tech advancements, and cultural developments tea
   - While loops
   - Identify: Select the correct iterative statement
   - LAB ACTIVITY: Create loops
-- 🔭 Update files using Python algorithms
+- 🔭 Update files **Using Python algorithms**
   - LAB ACTIVITY: Parsing a file to read and update the contents
   - Automate process of parsing and updating log files
 - 🔭Authentication, authorization, and accounting
-  - Identity and access management (IAM)
+  - **Identity and access management **(IAM)
   - LAB ACTIVITY: Improve authentication, authorization, and accounting for a small business
   - Access controls and authentication systems, The mechanisms of authorization
   - Why do we audit user activity
@@ -150,7 +149,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
 - 🔭Risk and asset security - How organizations determine what assets to protect.
   - Managing risk and classifying assets based on challenges of securing physical and digital assets.
   - Best Practices to manage cybersecurity risk
-  - LAB ACTIVITY: Score risks based on likelihood and severity, a.k.a  understanding **how to calculate CVE and CVSS scores**.
+  - LAB ACTIVITY: **Score risks **based on likelihood and severity, a.k.a  understanding **how to calculate CVE and CVSS scores**.
  
 ### Frameworks and Controls
 The **_Pyramid of Pain_** is a conceptual model for the effective use of Cyber Threat Intelligence in threat detection operations, with a particular emphasis on increasing the adversaries' cost of operations. It's method for understanding cybersecurity threats that organizes IOCs into six different levels. 
