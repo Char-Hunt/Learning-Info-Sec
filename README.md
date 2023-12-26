@@ -1,6 +1,6 @@
 ### Hi there 👋 bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | Hallo | مرحبا | ஹலோ | Hola
 
-My name is Char! As a [Cybersecurity Practioner and Business IT Consultant](https://github.com/Char-Hunt/Char-Hunt) I'm leveraging my 10+ years of experience in technology to provide solutions for enterprise environments. I have a strong background in IT infrastructure analysis, IT service management, and core business operations architecture, as well as certifications in CISSP (in progress), CC, Security+, A+, and GRC.
+My name is Char! As a [Cybersecurity and Business IT Consultant](https://github.com/Char-Hunt/Char-Hunt) I'm leveraging my 10+ years of experience in technology to provide solutions for enterprise environments. I have a strong background in IT infrastructure analysis, IT service management, and core business operations architecture, as well as certifications in CISSP (in progress), CC, Security+, A+, and GRC.
 
 I evaluate risk assessments at a system level focusing on process, controls frameworks, monitoring, or incident response and recovery activities; I'm focused on helping organizations achieve cyber resilience and awareness through effective combinations of empathy and technology; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. 
 I excel at finding solutions for complex problems, delivering customer care excellence, and facilitating efficiencies, accountability, integrity, and results.
@@ -11,7 +11,7 @@ I excel at finding solutions for complex problems, delivering customer care exce
 - 🤔 I’m looking for help with threat assessment tips and any of the above.
 - 💬 Ask me about how resiliency, risk, ethics, and customer experience can be intersectional.
 - 📫 How to reach me: Find me online and [Learn More.](https://solo.to/treadm1ll)
-- 😄 Portfolio Projects: See Below.
+- 😄 Portfolio Projects **See Below**
 - 👉 I value exchanging insights, trends, and resources relevant to navigating change, on our own terms.
 Watching societal interactions, tech advancements, and cultural developments teaches me daily about human nature, society, and personal resilience.
 #
@@ -37,22 +37,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
   - GRC/Compliance
   - CompTIA Security+ - In  progress
   - CompTIA A+
-##
-⚡COURSES:⚡
-- 🔭Professional Development Course, Cybersecurity, IT Services Management, IT Ops (certification courses)
-  - Connect and Protect: Networks and Network Security
-  - CompTIA Network+
-  - Assets, Threats, and Vulnerabilities
-  - CompTIA A+
-  - Sound the Alarm: Detection and Response
-  - ISC2 Certified in Cybersecurity
-  - Tools of the Trade: Linux and SQL
-  - Automate Cybersecurity Tasks with Python
-  - Foundations of Cybersecurity
-  - ITIL v3
-  - SOC 2 Compliance Essential Training
-  - Project Management Institute Cybersecurity Foundations: Governance, Risk, and Compliance (GRC)
- 
+
 ##
 ⚡**SKILLS and EXPERIENCE**:⚡ 
 - Linux
@@ -94,7 +79,23 @@ Watching societal interactions, tech advancements, and cultural developments tea
 - Operating Systems: Windows, Linux/Unix, MacOS
 - Database Security: Microsoft SQL Server
 - Web Application Security: OWASP
-    
+
+##
+⚡COURSES:⚡
+- 🔭Professional Development Course, Cybersecurity, IT Services Management, IT Ops (certification courses)
+  - Connect and Protect: Networks and Network Security
+  - CompTIA Network+
+  - Assets, Threats, and Vulnerabilities
+  - CompTIA A+
+  - Sound the Alarm: Detection and Response
+  - ISC2 Certified in Cybersecurity
+  - Tools of the Trade: Linux and SQL
+  - Automate Cybersecurity Tasks with Python
+  - Foundations of Cybersecurity
+  - ITIL v3
+  - SOC 2 Compliance Essential Training
+  - Project Management Institute Cybersecurity Foundations: Governance, Risk, and Compliance (GRC)
+
 ##
 ⚡PROJECTS:⚡
 - 🔭Safeguarding digital information
