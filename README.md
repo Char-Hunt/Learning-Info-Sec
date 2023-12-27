@@ -137,7 +137,7 @@ David Bianco's concepts and ideas have helped shape the landscape of hacker defe
 
 You may be wondering, “What are the types of encryption?” This is a good question to ask. Computerized encryption methods generally belong to one of two kinds of encryption:
 
-   - Symmetric key encryption
+   - [Symmetric key encryption](https://github.com/Char-Hunt/Ecryption-Foundations/blob/main/README.md#ecryption-foundations)
    - Public key encryption
 
 Public-key cryptography is sometimes called asymmetric cryptography. It is an encryption scheme that uses two mathematically related, but non-identical, keys. One is a **public** key and the other a **private** key. Unlike symmetric key algorithms that rely on a single key to handle the encrypt and decrypt functions, each key performs a unique process. The **public key** is used to _encrypt_ and the **private** key is used to _decrypt_ data. 
