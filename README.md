@@ -39,18 +39,48 @@ Watching societal interactions, tech advancements, and cultural developments tea
   - CompTIA A+
 
 #
-Business Info:
+⚡Professional Experience Snapshot: Char Hunt⚡
 
-Services offered
+10+ YOE and certifications in IT infrastructure analysis
+IT Operations / ITGC / ITSM and Business IT Solutions throughout organizations ranging SMBs to Fortune 500
+Bachelor of Arts in Science & Humanities. Concentration: Communications
+
+Services offered:
 
         Information, Communication
-        Security IT Consulting 
-        Business Consulting
+        Security IT Consulting, Cybersecurity
         Risk Audit
+        Business Consulting
 #
 Work location: United States
 #
 Work preference: Remote  or Hyrid, In-person
+#
+● Consultant
+
+Technical Operations Engineer
+BITS, Tech Ops, ITSM Management, 
+Feb 2023 — Present
+
+Feb 2023 — Present
+● Industry: Marketing & Communications
+
+Cybersecurity Relations
+Training and Awareness, Writing, 
+June 2023 — Present
+
+● Industry: Legal
+
+Law Firm, Legal Environments
+ITSM / ITGC, IT Tech Ops, Applications Support, 
+Jan 2017 — April 2023
+
+● Industry: Telecom (Fortune 50)
+
+Global Technical Customer Service, CSM
+B2B / SME/ SaaS / NOC, 
+Aug 2015 — Dec 2016
+
 #
 
 ⚡COURSES:⚡
@@ -153,11 +183,12 @@ So, say for example we need to confidentially send a plain text message to someo
 
 You cannot promise that your organization will not be breached, especially when intrusions are taking place by the thousands, even millions each hour. Also, when the inevitable breach happens--it's not a question of if it happens, it's actually a question of when it occurs--your stakeholders can trust your organization to respond quickly and protect their interests. But you should be able to say that you’ve secured the infrastructure your organization’s sustainable growth depends on.
 
-Companies and organizations are spending more on cybersecurity and privacy than ever before and as businesses are allocating resources accordingly on processes (governance), comppliance, people, and technology.
+Companies and organizations are spending more on cybersecurity and privacy than ever before and as businesses are allocating resources accordingly on processes (governance), compliance, people, and technology.
+#
+AUDIT RISK MATRIX
 
 ![RiskMatrix_prMo](https://github.com/Char-Hunt/Learning-Info-Sec/assets/138831832/36014181-2ddd-4ed2-8705-804a7e5792b3)
 #
-##
 ⚡**EXPERIENCE and SKILLS**:⚡ 
 - Linux
 - Bash
