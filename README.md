@@ -56,28 +56,30 @@ Work location: United States
 #
 Work preference: Remote  or Hyrid, In-person
 #
-● Consultant
+● Industry: Consultant
 
-Technical Operations Engineer
-BITS, Tech Ops, ITSM Management, 
+Primary IT Consultant, BITS, 
+Tech Ops, ITSM Management, 
 Feb 2023 — Present
 
-Feb 2023 — Present
+#
 ● Industry: Marketing & Communications
 
-Cybersecurity Relations
+Cybersecurity Relations -
 Training and Awareness, Writing, 
 June 2023 — Present
 
+#
 ● Industry: Legal
 
-Law Firm, Legal Environments
+Law Firm, Legal Environments -
 ITSM / ITGC, IT Tech Ops, Applications Support, 
 Jan 2017 — April 2023
 
+#
 ● Industry: Telecom (Fortune 50)
 
-Global Technical Customer Service, CSM
+Global Technical Customer Service, CSM -
 B2B / SME/ SaaS / NOC, 
 Aug 2015 — Dec 2016
 
