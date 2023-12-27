@@ -38,59 +38,31 @@ Watching societal interactions, tech advancements, and cultural developments tea
   - CompTIA Security+ - In  progress
   - CompTIA A+
 
-##
-⚡**SKILLS and EXPERIENCE**:⚡ 
-- Linux
-- Bash
-- Python Programming
-- Security Information and Event Management (SIEM) tools
-- Cloud
-- Saas
-- Intrusion Detection Systems (IDS) and IDS tools
-- [SQL](https://github.com/Char-Hunt/special-guide)
-- Basic Algorithm scripting, algorithm development
-- Authentication
-- Cybersecurity Assessment
-- Information Assurance
-- Information Security
-- Information Systems
-- Network Analyzer (sniffing) tools
-- NIST Cybersecurity Framework
-- Risk Assessment
-- Risk Management Framework
-- Threat Analysis
-- Vulnerability Assessment
-- Incident Reports and Documentation
-- 🔭Security Tools
-  - Microsoft Windows Defender for Endpoint
-  - Wireshark
-  - Splunk
-  - Nmap Security Scanning
-  - tcpdump
-  - Vulnerability Management with Nessus, Burp Suite, Kali Linux, Risk Mitigation
-  - CISCO Secure Endpoint / Meraki / Firepower
-  - Alien Vault, OneAgent, SIEM, IBM QRadar, Crowdstrike Falcon
-  - Network Security: Wireless Security, Cloud Security, Cryptography, Firewall Configuration & Administration, VPN, Ports, IoT, IDS, IPS Router Configuration,Packet Capture & Analysis, Log Analysis, network monitoring
-- Virtualization: VMware, Hyper-V, Configuring Ubuntu & Kali Linux Machines
-- TCP/IP networking
-- Identity & Access Management (IAM): Active Directory, AWS, Azure, Access Control Lists, User Permissions & Security Groups
-- Risk, Governance & Compliance: Regulatory Frameworks, Security Auditing, Compliance Checking, Identity Governance, Data Security & Privacy, Security Policy, Mobile Device Management
-- CYBERSECURITY: IT Audit, ITGC, Systems Administration, Network Security, Technical requirements, Information Security, threat and vulnerability management, Risk Assessment and design reviews, Controls/Standards ISO-27001, NIST-800, PCI, NIST SP 800-39, HIPAA, NIST 800-82, GDPR, NISTIR 8286, NIST SP 800-30, Malware Analysis, Security Architecture, Risk Appetite, Vulnerability Assessment, Access Controls, BC / DR / IR Concepts, Security Operations, Security Principles
-- Operating Systems: Windows, Linux/Unix, MacOS
-- Database Security: Microsoft SQL Server
-- Web Application Security: OWASP
+#
+Business Info:
 
-##
+Services offered
+
+        Information, Communication
+        Security IT Consulting 
+        Business Consulting
+        Risk Audit
+#
+Work location: United States
+#
+Work preference: Remote  or Hyrid, In-person
+#
+
 ⚡COURSES:⚡
 - 🔭Professional Development Course, Cybersecurity, IT Services Management, IT Ops (certification courses)
-  - Connect and Protect: Networks and Network Security
+  - Networks and Network Security
   - CompTIA Network+
-  - Assets, Threats, and Vulnerabilities
+  - Data Assets: Assets, Threats, and Vulnerabilities
   - CompTIA A+
-  - Sound the Alarm: Detection and Response
+  - DR IRP: Detection and Response
   - ISC2 Certified in Cybersecurity
-  - Tools of the Trade: Linux and SQL
-  - Automate Cybersecurity Tasks with Python
+  - Programming: Linux and SQL - Basic foundations and core principals
+  - Scipting Automation: Automating Cybersecurity Tasks with Python
   - Foundations of Cybersecurity
   - ITIL v3
   - SOC 2 Compliance Essential Training
@@ -184,6 +156,48 @@ You cannot promise that your organization will not be breached, especially when 
 Companies and organizations are spending more on cybersecurity and privacy than ever before and as businesses are allocating resources accordingly on processes (governance), comppliance, people, and technology.
 
 ![RiskMatrix_prMo](https://github.com/Char-Hunt/Learning-Info-Sec/assets/138831832/36014181-2ddd-4ed2-8705-804a7e5792b3)
+#
+##
+⚡**EXPERIENCE and SKILLS**:⚡ 
+- Linux
+- Bash
+- Python Programming
+- Security Information and Event Management (SIEM) tools
+- Cloud
+- Saas
+- Intrusion Detection Systems (IDS) and IDS tools
+- [SQL](https://github.com/Char-Hunt/special-guide)
+- Basic Algorithm scripting, algorithm development
+- Authentication
+- Cybersecurity Assessment
+- Information Assurance
+- Information Security
+- Information Systems
+- Network Analyzer (sniffing) tools
+- NIST Cybersecurity Framework
+- Risk Assessment
+- Risk Management Framework
+- Threat Analysis
+- Vulnerability Assessment
+- Incident Reports and Documentation
+- 🔭Security Tools
+  - Microsoft Windows Defender for Endpoint
+  - Wireshark
+  - Splunk
+  - Nmap Security Scanning
+  - tcpdump
+  - Vulnerability Management with Nessus, Burp Suite, Kali Linux, Risk Mitigation
+  - CISCO Secure Endpoint / Meraki / Firepower
+  - Alien Vault, OneAgent, SIEM, IBM QRadar, Crowdstrike Falcon
+  - Network Security: Wireless Security, Cloud Security, Cryptography, Firewall Configuration & Administration, VPN, Ports, IoT, IDS, IPS Router Configuration,Packet Capture & Analysis, Log Analysis, network monitoring
+- Virtualization: VMware, Hyper-V, Configuring Ubuntu & Kali Linux Machines
+- TCP/IP networking
+- Identity & Access Management (IAM): Active Directory, AWS, Azure, Access Control Lists, User Permissions & Security Groups
+- Risk, Governance & Compliance: Regulatory Frameworks, Security Auditing, Compliance Checking, Identity Governance, Data Security & Privacy, Security Policy, Mobile Device Management
+- CYBERSECURITY: IT Audit, ITGC, Systems Administration, Network Security, Technical requirements, Information Security, threat and vulnerability management, Risk Assessment and design reviews, Controls/Standards ISO-27001, NIST-800, PCI, NIST SP 800-39, HIPAA, NIST 800-82, GDPR, NISTIR 8286, NIST SP 800-30, Malware Analysis, Security Architecture, Risk Appetite, Vulnerability Assessment, Access Controls, BC / DR / IR Concepts, Security Operations, Security Principles
+- Operating Systems: Windows, Linux/Unix, MacOS
+- Database Security: Microsoft SQL Server
+- Web Application Security: OWASP
 
 ##
 Visit these Helpful [Forums](https://github.com/Char-Hunt/Forums/blob/main/README.md#forums ) for further Learning & Development.
