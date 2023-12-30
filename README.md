@@ -35,7 +35,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
   - ISC2 Certified in Cybersecurity Certificate
   - CISSP - In progress
   - GRC/Compliance
-  - CompTIA Security+ - In  progress
+  - CompTIA Security+ (In progress)
   - CompTIA A+
 
 #
@@ -54,12 +54,12 @@ Services offered:
 #
 Work location: United States
 #
-Work preference: Remote  or Hyrid, In-person
+Work preference: Remote  or Hybrid, In-person negotiable
 #
 ● Industry: Consultant
 
-Primary IT Consultant, BITS, 
-Tech Ops, ITSM Management, 
+Primary IT Consultant -
+Tech Ops, ITSM Management, BITS,
 Feb 2023 — Present
 
 #
@@ -79,7 +79,7 @@ Jan 2017 — April 2023
 #
 ● Industry: Telecom (Fortune 50)
 
-Global Technical Customer Service, CSM -
+Global Technical Customer Service (CSM) -
 B2B / SME/ SaaS / NOC, 
 Aug 2015 — Dec 2016
 
