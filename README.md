@@ -85,7 +85,7 @@ B2B / SME/ SaaS / NOC,
 Aug 2015 — Dec 2016
 
 #
-
+##
 ⚡COURSES:⚡
 - 🔭Professional Development Course, Cybersecurity, IT Services Management, IT Ops (certification courses)
   - Networks and Network Security
