@@ -42,7 +42,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
 ⚡Professional Experience Snapshot: Char Hunt⚡
 
 10+ YOE and certifications in IT infrastructure analysis
-IT Operations / ITGC / ITSM and Business IT Solutions throughout organizations ranging SMBs to Fortune 500
+IT Operations / ITGC / ITSM and Business IT Solutions throughout organizations ranging SMBs to Legal environments to Fortune 500
 Bachelor of Arts in Science & Humanities. Concentration: Communications
 
 Services offered:
