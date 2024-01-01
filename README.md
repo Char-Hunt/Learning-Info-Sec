@@ -74,7 +74,7 @@ June 2023 — Present
 ● Industry: Legal
 
 Law Firm, Legal Environments -
-ITSM / ITGC, IT Tech Ops, Applications Support, 
+ITSM / ITGC, IT Tech Ops, Applications Support, IT Security
 Jan 2017 — April 2023
 
 #
