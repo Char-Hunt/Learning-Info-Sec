@@ -220,7 +220,7 @@ AUDIT RISK MATRIX
   - Splunk
   - Nmap Security Scanning
   - tcpdump
-  - Vulnerability Management with Nessus, Burp Suite, Kali Linux, Risk Mitigation
+  - Vulnerability Management with Nessus, Burp Suite, , Metasploit, Kali Linux, Risk Mitigation
   - CISCO Secure Endpoint / Meraki / Firepower
   - Alien Vault, OneAgent, SIEM, IBM QRadar, Crowdstrike Falcon
   - Network Security: Wireless Security, Cloud Security, Cryptography, Firewall Configuration & Administration, VPN, Ports, IoT, IDS, IPS Router Configuration,Packet Capture & Analysis, Log Analysis, network monitoring
