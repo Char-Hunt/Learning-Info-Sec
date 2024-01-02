@@ -50,7 +50,7 @@ Services offered:
 
         Information, Communication
         Security IT Consulting, Cybersecurity
-        Risk Audit
+        Risk Audit, Compliance
         Business Consulting
 #
 Work location: United States
