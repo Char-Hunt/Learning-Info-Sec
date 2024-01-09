@@ -95,7 +95,7 @@ September 2015 — December 2015
 ● Industry: B2B Events
 
 Events Coordinator / Organization Member Relations -
-B2B / Marketing Liaison
+B2B / Marketing Liaison / Technical Advisor / Membership Billing & Renewals
 Jan 2012 — October 2015
 
 #
