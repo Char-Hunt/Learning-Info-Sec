@@ -52,6 +52,7 @@ Services offered:
         Security IT Consulting, Cybersecurity
         Risk Audit, Compliance
         Business Consulting
+        Customer feedback, Market data, and Product insights
 #
 Work location: United States
 #
@@ -88,14 +89,14 @@ Aug 2015 — Dec 2016
 ● Industry: Business Analyst
 
 Technical Sales Support - 
-Retail Sales Marketing / Technical Computer & Hardware Consultant
+Retail Sales & Product Marketing / Computer Software & Hardware Consultant
 September 2015 — December 2015
 
 #
 ● Industry: B2B Events
 
 Organization Member Relations -
-B2B Marketing Liaison / Technical Advisor / Membership Renewals
+B2B Product Marketing / Technical Liaison / Prodct Membership Renewals
 Jan 2012 — October 2015
 
 #
