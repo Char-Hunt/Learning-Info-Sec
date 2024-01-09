@@ -1,6 +1,6 @@
 ### Hi there 👋 bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | Hallo | مرحبا | ஹலோ | Hola
 
-My name is Char! As a [Cybersecurity and Business IT Consultant](https://github.com/Char-Hunt/Char-Hunt) I'm leveraging my 10+ years of experience in technology to provide solutions for enterprise environments. I have a strong background in IT infrastructure analysis, IT service management, and core business operations architecture, as well as certifications in CISSP (in progress), CC, Security+, A+, and GRC.
+My name is Char! As a [Cybersecurity and Business IT Consultant](https://github.com/Char-Hunt/Char-Hunt) I'm leveraging my 10+ years of experience in technology to provide solutions for enterprise environments. I have a strong background in IT infrastructure, IT service management, and core business operations architecture, as well as certifications in CISSP (in progress), CC, Security+, A+, and GRC. 
 
 I evaluate risk assessments at a system level focusing on process, controls frameworks, monitoring, or incident response and recovery activities; I'm focused on helping organizations achieve cyber resilience and awareness through effective combinations of empathy and technology; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. 
 I excel at finding solutions for complex problems, delivering customer care excellence, and facilitating efficiencies, accountability, integrity, and results.
@@ -41,8 +41,8 @@ Watching societal interactions, tech advancements, and cultural developments tea
 #
 ⚡Professional Experience Snapshot: Char Hunt⚡
 
-10+ YOE and certifications in IT infrastructure analysis
-IT Operations / ITGC / ITSM and Business IT Solutions throughout organizations ranging SMBs to Legal environments to Fortune 500
+10+ YOE and certifications in Product Management and  IT infrastructure analysis
+IT Operations / ITGC / ITSM and Business IT Solutions throughout organizations ranging SMBs to Legal environments to Fortune 500 companies
 #
 Bachelor of Arts in Science & Humanities. Concentration: Communications
 
@@ -67,7 +67,7 @@ Feb 2023 — Present
 ● Industry: Marketing & Communications
 
 Cybersecurity Relations -
-Training and Awareness, Writing, 
+Training and Awareness, Mentorship, Writing, 
 June 2023 — Present
 
 #
@@ -78,7 +78,7 @@ ITSM / ITGC, IT Tech Ops, Applications Support, IT Security
 Jan 2017 — April 2023
 
 #
-● Industry: Telecom (Fortune 50)
+● Industry: Telecommunications (Fortune 50)
 
 Global Technical Customer Service (CSM) -
 B2B / SME/ SaaS / NOC, 
@@ -182,7 +182,7 @@ So, say for example we need to confidentially send a plain text message to someo
 ![PXch2](https://github.com/Char-Hunt/Learning-Info-Sec/assets/138831832/875517cd-904b-4ad8-9997-3b02b9678225)
 
 ##
-⚡The Importance of Being Cyber-aware: Cybersecurity Traninng and Awareness Pprograms⚡
+⚡The Importance of Being Cyber-aware: Cybersecurity Training and Awareness Programs⚡
 
 You cannot promise that your organization will not be breached, especially when intrusions are taking place by the thousands, even millions each hour. Also, when the inevitable breach happens--it's not a question of if it happens, it's actually a question of when it occurs--your stakeholders can trust your organization to respond quickly and protect their interests. But you should be able to say that you’ve secured the infrastructure your organization’s sustainable growth depends on.
 
