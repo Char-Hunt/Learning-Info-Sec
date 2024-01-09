@@ -84,12 +84,10 @@ Global Technical Customer Service (CSM) -
 B2B / SME/ SaaS / NOC, 
 Aug 2015 — Dec 2016
 
-B2B Events: Events Coordinator / Liason
-
 #
 ● Industry: B2B Events
 
-Events Coordinator (Technical Sales Support) -
+Events Coordinator / Technical Sales Support -
 B2B / Marketing Liaison / Organizaion & Member Relations, 
 Jan 2012 — October 2015
 
@@ -210,12 +208,12 @@ AUDIT RISK MATRIX
 - Saas
 - Intrusion Detection Systems (IDS) and IDS tools
 - [SQL](https://github.com/Char-Hunt/special-guide)
-- Basic Algorithm scripting, algorithm development
+- Basic Algorithm scripting, algorithm development automation
 - Authentication
 - Cybersecurity Assessment
 - Information Assurance
 - Information Security
-- Information Systems
+- Information Systems, SSL Certificates, FTP, DNS, Reverse DNS, DHCP, Network Load Balancing, VPN, Database Mirroring
 - Network Analyzer (sniffing) tools
 - NIST Cybersecurity Framework
 - Risk Assessment
@@ -235,7 +233,7 @@ AUDIT RISK MATRIX
   - Network Security: Wireless Security, Cloud Security, Cryptography, Firewall Configuration & Administration, VPN, Ports, IoT, IDS, IPS Router Configuration,Packet Capture & Analysis, Log Analysis, network monitoring
 - Virtualization: VMware, Hyper-V, Configuring Ubuntu & Kali Linux Machines
 - TCP/IP networking
-- Identity & Access Management (IAM): Active Directory, AWS, Azure, Access Control Lists, User Permissions & Security Groups
+- Identity & Access Management: Active Directory, AWS, Azure, Access Control Lists, User Permissions & Security Groups
 - Risk, Governance & Compliance: Regulatory Frameworks, Security Auditing, Compliance Checking, Identity Governance, Data Security & Privacy, Security Policy, Mobile Device Management
 - CYBERSECURITY: IT Audit, ITGC, Systems Administration, Network Security, Technical requirements, Information Security, threat and vulnerability management, Risk Assessment and design reviews, Controls/Standards ISO-27001, NIST-800, PCI, NIST SP 800-39, HIPAA, NIST 800-82, GDPR, NISTIR 8286, NIST SP 800-30, Malware Analysis, Security Architecture, Risk Appetite, Vulnerability Assessment, Access Controls, BC / DR / IR Concepts, Security Operations, Security Principles
 - Operating Systems: Windows, Linux/Unix, MacOS
