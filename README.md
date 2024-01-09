@@ -84,6 +84,15 @@ Global Technical Customer Service (CSM) -
 B2B / SME/ SaaS / NOC, 
 Aug 2015 — Dec 2016
 
+B2B Events: Events Coordinator / Liason
+
+#
+● Industry: B2B Events
+
+Events Coordinator (Technical Sales Support) -
+B2B / Marketing Liaison / Organizaion & Member Relations, 
+Jan 2012 — October 2015
+
 #
 ##
 ⚡COURSES:⚡
