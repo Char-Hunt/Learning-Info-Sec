@@ -41,7 +41,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
 #
 ⚡Professional Experience Snapshot: Char Hunt⚡
 
-10+ YOE and certifications in Product Management and  IT infrastructure analysis
+10+ YOE and certifications in Product Management and IT infrastructure analysis / 
 IT Operations / ITGC / ITSM and Business IT Solutions throughout organizations ranging SMBs to Legal environments to Fortune 500 companies
 #
 Bachelor of Arts in Science & Humanities. Concentration: Communications
