@@ -53,6 +53,7 @@ Services offered:
         Risk Audit, Compliance
         Business Consulting
         Customer feedback, Market data, and Product insights
+        Go-to-market Planning
 #
 Work location: United States
 #
