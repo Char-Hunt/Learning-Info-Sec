@@ -76,7 +76,7 @@ June 2023 — Present
 ● Industry: Legal
 
 Law Firm, Legal Environments -
-ITSM / ITGC, IT Tech Ops, Applications Support, IT Security
+ITSM / ITGC, IT Tech Ops, Applications Support, IT Security, 
 Jan 2017 — April 2023
 
 #
@@ -90,14 +90,14 @@ Aug 2015 — Dec 2016
 ● Industry: Business Analyst
 
 Technical Sales Support - 
-Retail Sales & Product Marketing / Computer Software & Hardware Consultant
+Retail Sales & Product Marketing / Computer Software & Hardware Consultant, 
 September 2015 — December 2015
 
 #
 ● Industry: B2B Events
 
 Organization Member Relations -
-B2B Product Marketing / Technical Liaison / Prodct Membership Renewals
+B2B Product Marketing / Technical Liaison / Prodct Membership Renewals, 
 Jan 2012 — October 2015
 
 #
