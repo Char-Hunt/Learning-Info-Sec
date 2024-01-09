@@ -85,10 +85,17 @@ B2B / SME/ SaaS / NOC,
 Aug 2015 — Dec 2016
 
 #
+● Industry: Business Analyst
+
+Technical Sales Support - 
+Retail Sales Marketing / Technical Computer & Hardware Consultant
+September 2015 — December 2015
+
+#
 ● Industry: B2B Events
 
-Events Coordinator / Technical Sales Support -
-B2B / Marketing Liaison / Organizaion & Member Relations, 
+Events Coordinator / Organization Member Relations -
+B2B / Marketing Liaison
 Jan 2012 — October 2015
 
 #
