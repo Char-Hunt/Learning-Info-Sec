@@ -82,7 +82,7 @@ Jan 2017 — April 2023
 #
 ● Industry: Telecommunications (Fortune 50)
 
-Global Technical Customer Service (CSM) -
+Global Technical Customer Service (CMS/MSP) -
 B2B / SME/ SaaS / NOC, 
 Aug 2015 — Dec 2016
 
