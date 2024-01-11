@@ -118,7 +118,7 @@ Jan 2012 — October 2015
   - Project Management Institute Cybersecurity Foundations: Governance, Risk, and Compliance (GRC)
 
 ##
-⚡PROJECTS:⚡
+### ⚡PROJECTS:⚡
 - 🔭Safeguarding digital information
   - Digital and physical assets
   - Principle of least privilege
