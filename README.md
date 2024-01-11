@@ -130,7 +130,7 @@ Jan 2012 — October 2015
   -  Security guidelines in action, Security Controls and [frameworks](https://github.com/Char-Hunt/Learning-Info-Sec#frameworks-and-controls)
 - 🔭Network Attacks and defense **Overview of interception tactics**
   - Identify: Network attacks, Analyze: network attacks
-- 🔭Security Information and Event Management (SIEM) tools
+- 🔭Security Information and Event Management [SIEM](https://github.com/Char-Hunt/SIEM-What-Is-It#siem-what-is-it) tools
  - 🔭Secure Networks against netwok intrusion, DoS attacks
   - Read tcpdump logs, Real-life DDoS attack, Analyze: network layer communication
 - 🔭Identify common risks, threats, and vulnerabilities, as well as techniques for mitigation
