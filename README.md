@@ -30,12 +30,13 @@ Watching societal interactions, tech advancements, and cultural developments tea
 
 ##
 ### -  SPECIALIZATIONS:
-- Professional Certifications
+- Professional Certifications and Coursework
   - Google Cybersecurity Professional Certificate
   - ISC2 Certified in Cybersecurity Certificate
   - CISSP - In progress
   - GRC/Compliance
-  - CompTIA Security+ (In progress)
+  - CompTIA Security+
+  - Network+
   - CompTIA A+
 
 #
@@ -120,9 +121,6 @@ Jan 2012 — October 2015
 ##
 ### ⚡PROJECTS:⚡
 - 🔭Safeguarding digital information
-  - Digital and physical assets
-  - Principle of least privilege
-  - The data lifecycle
   - Information privacy: Regulations and compliance
   - LAB ACTIVITY: Determine appropriate data handling practices
 - 🔭Elements of a security plan
@@ -132,8 +130,6 @@ Jan 2012 — October 2015
   - Identify: Network attacks, Analyze: network attacks
 - 🔭Security Information and Event Management [SIEM](https://github.com/Char-Hunt/SIEM-What-Is-It#siem-what-is-it) tools
  - 🔭Secure Networks against netwok intrusion, DoS attacks
-  - Read tcpdump logs, Real-life DDoS attack, Analyze: network layer communication
-- 🔭Identify common risks, threats, and vulnerabilities, as well as techniques for mitigation
 - **Hands-on** experience with Python, Linux, and SQL.
 - 🔭File / Directory privileges: **Linux Administraton**
 - 🔭Fundamentals of **Cryptography**
@@ -141,7 +137,6 @@ Jan 2012 — October 2015
   - Symmetric and asymmetric [encryption](https://github.com/Char-Hunt/Learning-Info-Sec/blob/main/README.md#types-of-encryption)
   - LAB ACTIVITY: Decrypt an encrypted message
   - Non-repudiation and hashing
-  - The evolution of hash functions
 - 🔭Encryption methods
    - LAB ACTIVITY: **Create hash values**
 - 🔭Automate Tasks Cybersecurity Tasks with Python
@@ -160,14 +155,10 @@ Jan 2012 — October 2015
   - LAB ACTIVITY: Create loops
 - 🔭 Update files **Using Python algorithms**
   - LAB ACTIVITY: Parsing a file to read and update the contents
-  - Automate process of parsing and updating log files
 - 🔭Authentication, authorization, and accounting
   - Identity and access management (IAM)
   - LAB ACTIVITY: Improve authentication, authorization, and accounting for a small business
-  - Access controls and authentication systems, The mechanisms of authorization
-  - Why do we audit user activity
 - 🔭Linux OS Hardening - Authorization and File Permissions
-  - Managing File and Directory privileges in the Linux environment
 - 🔭Risk Assessment and Asset Security - How organizations determine what assets to protect.
   - Managing risk and classifying assets based on challenges of securing physical and digital assets.
   - Best Practices to manage cybersecurity risk
