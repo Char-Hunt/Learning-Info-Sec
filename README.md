@@ -147,7 +147,7 @@ Jan 2012 — October 2015
   - Managing risk and classifying assets based on challenges of securing physical and digital assets.
   - Best Practices to manage cybersecurity risk
   - LAB ACTIVITY: Score risks based on likelihood and severity, a.k.a  understanding **how to calculate CVE and CVSS scores**.
- 
+## 
 ### Frameworks and Controls
 The **_Pyramid of Pain_** is a conceptual model for the effective use of Cyber Threat Intelligence in threat detection operations, with a particular emphasis on increasing the adversaries' cost of operations. It's method for understanding cybersecurity threats that organizes IOCs into six different levels. 
 Information security expert **DAVID J. BIANCO** was the first to formalize this idea.
