@@ -101,23 +101,6 @@ Organization Member Relations -
 B2B Product Marketing / Technical Liaison / Product Membership Renewals, 
 Jan 2012 — October 2015
 
-#
-##
-⚡COURSES:⚡
-- 🔭Professional Development Course, Cybersecurity, IT Services Management, IT Ops (certification courses)
-  - Networks and Network Security
-  - CompTIA Network+
-  - Data Assets: Assets, Threats, and Vulnerabilities
-  - CompTIA A+
-  - DR IRP: Detection and Response
-  - ISC2 Certified in Cybersecurity
-  - Programming: Linux and SQL - Basic foundations and core principals
-  - Scipting Automation: Automating Cybersecurity Tasks with Python
-  - Foundations of Cybersecurity
-  - ITIL v3
-  - SOC 2 Compliance Essential Training
-  - Project Management Institute Cybersecurity Foundations: Governance, Risk, and Compliance (GRC)
-
 ##
 ### ⚡PROJECTS:⚡
 - 🔭Safeguarding digital information
@@ -131,6 +114,7 @@ Jan 2012 — October 2015
 - 🔭Security Information and Event Management [SIEM](https://github.com/Char-Hunt/SIEM-What-Is-It#siem-what-is-it) tools
  - 🔭Secure Networks against netwok intrusion, DoS attacks
 - **Hands-on** experience with Python, Linux, and SQL.
+  - Scripting Automation: Automating Cybersecurity Tasks with Python
 - 🔭File / Directory privileges: **Linux Administraton**
 - 🔭Fundamentals of **Cryptography**
   - Public key infrastructure
