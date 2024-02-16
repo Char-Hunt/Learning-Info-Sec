@@ -95,7 +95,7 @@ Retail Sales & Product Marketing / Computer Software & Hardware Consultant,
 September 2015 — December 2015
 
 #
-● Industry: B2B Events
+● Industry: B2B / B2C Events
 
 Organization Member Relations -
 B2B Product Marketing / Technical Liaison / Product Membership Renewals, 
