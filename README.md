@@ -1,6 +1,6 @@
 ### Hi there 👋 bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | Hallo | مرحبا | ஹலோ | Hola
 
-My name is Char! As a [Cybersecurity and Business IT Consultant](https://www.charhunt.org) I'm leveraging my 10+ years of experience in technology to provide solutions for enterprise environments. I have a strong background in IT infrastructure, IT service management, and core business operations architecture, as well as certifications in CISSP (in progress), CC, Security+, A+, and GRC. 
+My name is Char! As a [Cybersecurity and Business IT Consultant](https://www.charhunt.org) I'm leveraging my 10+ years of experience in technology to provide solutions for enterprise environments. I have a strong background in IT infrastructure, IT service management, and core business operations, as well as certifications in CISSP (in progress), CC, Security+, A+, and GRC. 
 
 I evaluate risk assessments at a system level focusing on process, controls frameworks, monitoring, or incident response and recovery activities; I'm focused on helping organizations achieve cyber resilience and awareness through effective combinations of empathy and technology; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. 
 I excel at finding solutions for complex problems, delivering customer care excellence, and facilitating efficiencies, accountability, integrity, and results.
@@ -54,7 +54,7 @@ Services offered:
         Risk Audit, Compliance
         Business Consulting
         Customer feedback, Market data, and Product insights
-        Go-to-market Planning
+        
 #
 Work location: United States
 #
@@ -119,34 +119,7 @@ Jan 2012 — October 2015
 - 🔭Fundamentals of **Cryptography**
   - Public key infrastructure
   - Symmetric and asymmetric [encryption](https://github.com/Char-Hunt/Learning-Info-Sec/blob/main/README.md#types-of-encryption)
-  - LAB ACTIVITY: Decrypt an encrypted message
-  - Non-repudiation and hashing
-- 🔭Encryption methods
-   - LAB ACTIVITY: **Create hash values**
-- 🔭Automate Tasks Cybersecurity Tasks with Python
-  - Create a basic Python script
-  - Overview Python environments
-  - LAB ACTIVITY: Practice writing Python code
-- 🔭Work with variables in Python
-  - Assign and reassign variables in Python
-  - LAB ACTIVITY: Assign Python variables
-- 🔭Core Python components
-  - Conditional statements in Python
-  - LAB ACTIVITY: Create a conditional statement
-  - For loops
-  - While loops
-  - Identify: Select the correct iterative statement
-  - LAB ACTIVITY: Create loops
-- 🔭 Update files **Using Python algorithms**
-  - LAB ACTIVITY: Parsing a file to read and update the contents
-- 🔭Authentication, authorization, and accounting
-  - Identity and access management (IAM)
-  - LAB ACTIVITY: Improve authentication, authorization, and accounting for a small business
-- 🔭Linux OS Hardening - Authorization and File Permissions
-- 🔭Risk Assessment and Asset Security - How organizations determine what assets to protect.
-  - Managing risk and classifying assets based on challenges of securing physical and digital assets.
-  - Best Practices to manage cybersecurity risk
-  - LAB ACTIVITY: Score risks based on likelihood and severity, a.k.a  understanding **how to calculate CVE and CVSS scores**.
+ 
 ## 
 ### Frameworks and Controls
 The **_Pyramid of Pain_** is a conceptual model for the effective use of Cyber Threat Intelligence in threat detection operations, with a particular emphasis on increasing the adversaries' cost of operations. It's method for understanding cybersecurity threats that organizes IOCs into six different levels. 
@@ -184,41 +157,37 @@ AUDIT RISK MATRIX
 ![RiskMatrix_prMo](https://github.com/Char-Hunt/Learning-Info-Sec/assets/138831832/36014181-2ddd-4ed2-8705-804a7e5792b3)
 #
 ⚡**EXPERIENCE and SKILLS**:⚡ 
-- Linux
-- Bash
-- Python Programming
-- Security Information and Event Management (SIEM) tools
+
+- SIEM tools, dashboard technologies
 - Cloud
 - Saas
-- Intrusion Detection Systems (IDS) and IDS tools
+- IDS tools
 - [SQL](https://github.com/Char-Hunt/special-guide)
-- Basic Algorithm scripting, algorithm development automation
 - Authentication
-- Cybersecurity Assessment
-- Information Assurance
-- Information Security
 - Information Systems, SSL Certificates, FTP, DNS, Reverse DNS, DHCP, Network Load Balancing, VPN, Database Mirroring
-- Network Analyzer (sniffing) tools
 - NIST Cybersecurity Framework
-- Risk Assessment
+- Risk Assessment, Cybersecurity Assessment
+- Information Assurance
 - Risk Management Framework
 - Threat Analysis
 - Vulnerability Assessment
 - Incident Reports and Documentation
+- Small group, 1:1 training programs
 - 🔭Security Tools
-  - Microsoft Windows Defender for Endpoint
-  - Wireshark
-  - Splunk
-  - Nmap Security Scanning
-  - tcpdump
-  - Vulnerability Management with Nessus, Burp Suite, , Metasploit, Kali Linux, Risk Mitigation
+  - Blue: Wireshark, Splunk, tcpdump
+  - Red: Nessus, Burp Suite, Metasploit
+  - Nmap
+  - Microsoft Windows Defender for Endpoint,
+  - Vulnerability Management, Kali Linux, Risk Mitigation
   - CISCO Secure Endpoint / Meraki / Firepower
   - Alien Vault, OneAgent, SIEM, IBM QRadar, Crowdstrike Falcon
-  - Network Security: Wireless Security, Cloud Security, Cryptography, Firewall Configuration & Administration, VPN, Ports, IoT, IDS, IPS Router Configuration,Packet Capture & Analysis, Log Analysis, network monitoring
+  - Network Security: Wireless Security, Cloud Security, Cryptography, Firewall Configuration & Administration, VPN, Ports, IoT, IDS, IPS
 - Virtualization: VMware, Hyper-V, Configuring Ubuntu & Kali Linux Machines
 - TCP/IP networking
 - Identity & Access Management: Active Directory, AWS, Azure, Access Control Lists, User Permissions & Security Groups
 - Risk, Governance & Compliance: Regulatory Frameworks, Security Auditing, Compliance Checking, Identity Governance, Data Security & Privacy, Security Policy, Mobile Device Management
+- Basic Algorithm scripting, algorithm development automation
+- Basic Programming: Linux, Bash, Python
 - CYBERSECURITY: IT Audit, ITGC, Systems Administration, Network Security, Technical requirements, Information Security, threat and vulnerability management, Risk Assessment and design reviews, Controls/Standards ISO-27001, NIST-800, PCI, NIST SP 800-39, HIPAA, NIST 800-82, GDPR, NISTIR 8286, NIST SP 800-30, Malware Analysis, Security Architecture, Risk Appetite, Vulnerability Assessment, Access Controls, BC / DR / IR Concepts, Security Operations, Security Principles
 - Operating Systems: Windows, Linux/Unix, MacOS
 - Database Security: Microsoft SQL Server
