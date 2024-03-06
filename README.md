@@ -169,14 +169,14 @@ AUDIT RISK MATRIX
 - Information Assurance
 - Information Systems, SSL Certificates, FTP, DNS, Reverse DNS, DHCP, Network Load Balancing, VPN, Database Mirroring, Systems Administration
 - Risk Management Framework
+- GRC /Compliance: SOC2 Fundamentals
 - Threat Analysis
 - Vulnerability Assessment
 - Incident Reports and Documentation
 - Small group, 1:1 training programs - Security Operations, Security Principles
 - 🔭Security Tools
   - Blue: Wireshark, Splunk, tcpdump
-  - Red: Nessus, Burp Suite, Metasploit
-  - Nmap
+  - Red: Burp Suite, Metasploit, Nmap
   - Microsoft Windows Defender for Endpoint
   - Threat and Vulnerability Management, Kali Linux, Risk Mitigation, Malware Analysis
   - Operating Systems: Windows, Linux/Unix, MacOS
