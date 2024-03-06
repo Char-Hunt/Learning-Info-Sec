@@ -190,7 +190,7 @@ AUDIT RISK MATRIX
 - Risk, Governance & Compliance: Regulatory Frameworks, Security Auditing, Compliance Checking, Identity Governance, Data Security & Privacy, Security Policy, Mobile Device Management
 - Basic Algorithm scripting, algorithm development automation
 - Basic Programming: Linux, Bash, Python
-- CYBERSECURITY: IT Audit, ITGC, Risk Assessment and design reviews, Controls/Standards ISO-27001, NIST-800, PCI, NIST SP 800-39, HIPAA, NIST 800-82, GDPR, NISTIR 8286, NIST SP 800-30, Security Architecture, Risk Appetite,  BC / DR / IR Concepts
+- CYBERSECURITY: IT Audit, ITGC, Risk Assessment and design reviews, Controls / Standards ISO-27001, NIST-800, PCI, NIST SP 800-39, HIPAA, NIST 800-82, GDPR, NISTIR 8286, NIST SP 800-30, Security Architecture, Risk Appetite,  BC / DR / IR Concepts
 - Web Application Security concepts (OWASP)
 
 ##
