@@ -191,7 +191,7 @@ AUDIT RISK MATRIX
 - CYBERSECURITY: IT Audit, ITGC, Systems Administration, Network Security, Technical requirements, Information Security, threat and vulnerability management, Risk Assessment and design reviews, Controls/Standards ISO-27001, NIST-800, PCI, NIST SP 800-39, HIPAA, NIST 800-82, GDPR, NISTIR 8286, NIST SP 800-30, Malware Analysis, Security Architecture, Risk Appetite, Vulnerability Assessment, Access Controls, BC / DR / IR Concepts, Security Operations, Security Principles
 - Operating Systems: Windows, Linux/Unix, MacOS
 - Database Security: Microsoft SQL Server
-- Web Application Security: OWASP
+- Web Application Security concepts (OWASP)
 
 ##
 Visit these Helpful [Forums](https://github.com/Char-Hunt/Forums/blob/main/README.md#forums ) for further Learning & Development.
