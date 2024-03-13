@@ -17,7 +17,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
 #
 ### ⚡Portfolio List:⚡
 
-| Portfolio Items       |          Project Title                                                                                      |
+| Learning Items       |          Project Title                                                                                      |
 |----------------------:|-------------------------------------------------------------------------------------------------------------|
 |  Table of Contents    | [Lab Overview]( )                                                                                           |
 |  Security Audit       | [Conducting a Security Audit]( )                              |
