@@ -45,7 +45,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
 Several YOE and certifications in Product Management and IT infrastructure analysis / 
 IT Operations / ITGC / ITSM and Business IT Solutions throughout organizations ranging SMBs to Legal environments to Fortune 500 companies
 
-Bachelor of Arts, Concentration: Communications
+Bachelor of Arts, Concentration: Digital/New Media and Communications
 
 Services offered:
 
@@ -58,7 +58,7 @@ Services offered:
 #
 Work location: United States
 #
-Work preference: Remote  or Hybrid, In-person negotiable
+Work preference: Remote or Hybrid, In-person negotiable
 #
 ● Industry: Consultant
 
