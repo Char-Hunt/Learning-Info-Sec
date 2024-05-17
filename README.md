@@ -30,7 +30,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
 
 
 ### -  SPECIALIZATIONS:
-- Professional Certifications and Coursework
+- *Professional Certifications and Coursework*
   - Google Cybersecurity Professional Certificate
   - ISC2 Certified in Cybersecurity Certificate
   - CISSP - In progress
@@ -42,8 +42,8 @@ Watching societal interactions, tech advancements, and cultural developments tea
 
 ⚡Professional Experience Snapshot: Char Hunt⚡
 
-Several YOE and certifications in Product Management and IT infrastructure analysis / 
-IT Operations / ITGC / ITSM and Business IT Solutions throughout organizations ranging SMBs to Legal environments to Fortune 500 companies
+Several YOE in IT professional service and IT infrastructure analysis / 
+IT Operations / ITGC / ITSM and Business IT Solutions and product management throughout organizations ranging SMBs to Legal environments to Fortune 500 companies
 
 Bachelor of Arts, Concentration: Digital/New Media and Communications
 
