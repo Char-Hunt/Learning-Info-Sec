@@ -1,6 +1,6 @@
 ### Hi there 👋 bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | Hallo | مرحبا | ஹலோ | Hola
 
-My name is Char! As a [Cybersecurity and IT Consultant](https://www.charhunt.org) I'm leveraging my several years of experience in technology to provide solutions for enterprise environments. I have a strong background in IT network infrastructure and IT Support, IT Services Management, and core business operations, as well as coursework and certifications in CISSP (in progress), CC, Security+, A+, Network+, and GRC. 
+My name is Char! As a [Cybersecurity and IT Consultant](https://www.charhunt.org) I'm leveraging my several years of experience in technology to provide solutions for enterprise environments. I have a strong background in IT network infrastructure and IT Technical Support, IT Services Management, and core business operations, as well as coursework and certifications in CISSP (in progress), CC, Security+, A+, Network+, and GRC. 
 
 I evaluate risk assessments at a system level focusing on process, controls frameworks, monitoring, or incident response and recovery activities; I'm focused on helping organizations achieve cyber resilience and awareness through effective combinations of empathy and technology; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. 
 I excel at finding solutions for complex problems, delivering customer care excellence, and facilitating efficiencies, accountability, integrity, and results.
@@ -42,8 +42,8 @@ Watching societal interactions, tech advancements, and cultural developments tea
 
 ⚡Professional Experience Snapshot: Char Hunt⚡
 
-Several YOE in IT professional service and IT infrastructure analysis / 
-IT Operations / ITGC / ITSM and Business IT Solutions and product management throughout organizations ranging SMBs to Legal environments to Fortune 500 companies
+Several YOE in IT professional services and IT infrastructure analysis / 
+IT Operations / ITGC / ITSM in Business IT Support Solutions and product management throughout organizations ranging SMBs, Legal environments, Fortune 500 companies
 
 Bachelor of Arts, Concentration: Digital/New Media and Communications
 
