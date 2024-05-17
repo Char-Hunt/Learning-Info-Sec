@@ -52,8 +52,8 @@ Services offered:
         Information, Communication
         Security IT Consulting, Cybersecurity
         Risk Audit, Compliance
-        Business Consulting
-        Customer feedback, Market data, and Product insights
+        Business IT Consulting
+        Customer feedback, Market data, and Product insights, Product Management
         
 #
 Work location: United States
