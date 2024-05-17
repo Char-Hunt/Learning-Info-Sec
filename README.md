@@ -5,7 +5,7 @@ My name is Char! As a [Cybersecurity and IT Consultant](https://www.charhunt.org
 I evaluate risk assessments at a system level focusing on process, controls frameworks, monitoring, or incident response and recovery activities; I'm focused on helping organizations achieve cyber resilience and awareness through effective combinations of empathy and technology; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. 
 I excel at finding solutions for complex problems, delivering customer care excellence, and facilitating efficiencies, accountability, integrity, and results.
 
-- 🔭 I’m currently working on InfoSec, IT Security Audit/Risk Assessment/Evaluation and Cybersecurity.
+- 🔭 I’m currently working on IT Services Support, InfoSec, IT Security Audit/Risk Assessment/Evaluation and Cybersecurity.
 - 🌱 I’m currently learning python, linux for SOC, ML, and IAM.
 - 👯 I’m looking to collaborate on SIEM, DR, and vulnerability tools.
 - 🤔 I’m looking for help with threat assessment tips and any of the above.
@@ -42,10 +42,10 @@ Watching societal interactions, tech advancements, and cultural developments tea
 
 ⚡Professional Experience Snapshot: Char Hunt⚡
 
-10+ YOE and certifications in Product Management and IT infrastructure analysis / 
+Several YOE and certifications in Product Management and IT infrastructure analysis / 
 IT Operations / ITGC / ITSM and Business IT Solutions throughout organizations ranging SMBs to Legal environments to Fortune 500 companies
 
-Bachelor of Arts in Science & Humanities. Concentration: Communications
+Bachelor of Arts, Concentration: Communications
 
 Services offered:
 
