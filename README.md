@@ -43,16 +43,16 @@ Watching societal interactions, tech advancements, and cultural developments tea
 ⚡Professional Experience Snapshot: Char Hunt⚡
 
 Several YOE in IT professional services and IT infrastructure analysis / 
-IT Operations / ITGC / ITSM in Business IT Support Solutions and product management throughout organizations ranging SMBs, Legal environments, Fortune 500 companies
+IT Operations / ITGC / ITSM in Business IT Support Solutions and product management throughout organizations ranging SMBs, Legal environments, Corporate
 
-Bachelor of Arts, Concentration: Digital/New Media and Communications
+Bachelor of Arts, Concentration:  Communications, Journalism, Digital/New Media
 
 Services offered:
 
         Information, Communication
         Security IT Consulting, Cybersecurity
         Risk Audit, Compliance
-        Business IT Consulting
+        Business IT Consulting, Core Business
         Customer feedback, Market data, and Product insights, Product Management
         
 #
@@ -182,7 +182,7 @@ AUDIT RISK MATRIX
   - Operating Systems: Windows, Linux/Unix, MacOS
   - Database Security: Microsoft SQL Server
   - CISCO Secure Endpoint / Meraki / Firepower
-  - Alien Vault, OneAgent, SIEM, IBM QRadar, Crowdstrike Falcon
+  - Alien Vault, OneAgent, SIEM, IBM QRadar, Crowdstrike Falcon, Netskope, AMP
   - Network Security: Wireless Security, Cloud Security, Cryptography, Firewall Configuration & Administration, VPN, Ports, IoT, IDS, IPS
 - Virtualization: VMware, Hyper-V, Configuring Ubuntu & Kali Linux Machines
 - TCP/IP networking, network security concepts
