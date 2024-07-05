@@ -2,8 +2,6 @@
 
 My name is Char! As a [Cybersecurity Analyst and IT Consultant](https://www.charhunt.org) I'm leveraging my several years of experience in technology to provide solutions for enterprise environments. I have a strong background in IT infrastructure analysis, IT Technical Support, Technical Writing/Editing, IT Services Management, and core business operations. Currently developing and expanding my skillset through coursework and certifications such as CISSP (in progress), CC, Security+, A+, Network+, and GRC. 
 
-My IT infrastructure analysis,  ITSM background and understanding of core business architecture gives a strong base to troubleshoot and provide solutions in networked environments. 
-
 I evaluate risk assessments at a system level focusing on process, controls frameworks, monitoring, or incident response and recovery activities; I'm focused on helping organizations achieve cyber resilience and awareness through effective combinations of empathy and technology; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. 
 I excel at finding solutions for complex problems, delivering customer care excellence, and facilitating efficiencies, accountability, integrity, and results.
 
