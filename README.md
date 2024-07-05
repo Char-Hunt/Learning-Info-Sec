@@ -71,14 +71,14 @@ Feb 2023 — Present
 ● Industry: Marketing & Communications
 
 Cybersecurity Relations -
-Training and Awareness, Mentorship, Writing/Editing
+Training and Awareness, Mentorship, Writing/Editing,
 June 2023 — Present
 
 #
-● Industry: Techical Editing and Writing
+● Industry: Techical Editing and Writing,
 
 Communications, Writing -
-Technical Editor, Technical Writing, Training and Awareness, Documentation 
+Technical Editor, Technical Writing, Training and Awareness, Documentation, 
 Jan 2017 — Present
 
 #
