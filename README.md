@@ -78,7 +78,7 @@ June 2023 — Present
 ● Industry: Techical Editing and Writing
 
 Communications, Writing -
-Technical Editor, Technical Writing, Training and Awareness, Communications 
+Technical Editor, Technical Writing, Training and Awareness, Documentation 
 Jan 2017 — Present
 
 #
