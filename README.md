@@ -50,6 +50,7 @@ Bachelor of Arts, Concentration:  Communications, Journalism, Digital/New Media
 Services offered:
 
         Information, Communication
+        Technical Writing and Editing
         Security IT Consulting, Cybersecurity
         Risk Audit, Compliance
         Business IT Consulting, Core Business
@@ -58,7 +59,7 @@ Services offered:
 #
 Work location: United States
 #
-Work preference: Remote or Hybrid, In-person negotiable
+Work preference: Remote or Hybrid, In-person / On-site negotiable
 #
 ● Industry: Consultant
 
@@ -70,8 +71,15 @@ Feb 2023 — Present
 ● Industry: Marketing & Communications
 
 Cybersecurity Relations -
-Training and Awareness, Mentorship, Writing, 
+Training and Awareness, Mentorship, Writing/Editing
 June 2023 — Present
+
+#
+● Industry: Techical Editing and Writing
+
+Communications, Writing, Technical Documentation -
+Technical Editor, Training and Awareness, Communications, Technical Writing, Technical Documentation
+Jan 2017 — Present
 
 #
 ● Industry: Legal
