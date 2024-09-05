@@ -31,7 +31,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
 
 ### -  SPECIALIZATIONS:
 - *Professional Certifications and Coursework*
-  - Google Cybersecurity Professional Specialization & multiple certificate
+  - Google Cybersecurity Professional Specialization & multiple certificates
   - ISC2 Certified in Cybersecurity Certificate
   - CISSP - In progress
   - GRC/Compliance
