@@ -93,7 +93,7 @@ Jan 2017 — April 2023
 
 Global Technical Customer Service (CMS/MSP) -
 B2B / SME/ SaaS / NOC, 
-Aug 2015 — Dec 2016
+Aug 2015 — Jan 2017
 
 #
 ● Industry: Business Analyst
