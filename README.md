@@ -36,7 +36,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
   - CISSP - In progress
   - GRC/Compliance
   - CompTIA Security+
-  - Network+
+  - CompTIA Network+
   - CompTIA A+
 
 
