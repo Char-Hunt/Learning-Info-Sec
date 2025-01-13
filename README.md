@@ -48,6 +48,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
 
 
 ### ⚡Learning Items Portfolio:⚡
+(This is only a partial list)
 
 |  Topics               |          Project Title                                                                                  |
 |----------------------:|---------------------------------------------------------------------------------------------------------|
