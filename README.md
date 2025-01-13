@@ -15,21 +15,8 @@ I excel at finding solutions for complex problems, delivering customer care exce
 - 👉 I value exchanging insights, trends, and resources relevant to navigating change, on our own terms.
 Watching societal interactions, tech advancements, and cultural developments teaches me daily about human nature, society, and personal resilience.
 #
-### ⚡Portfolio List:⚡
 
-| Learning Items       |          Project Title                                                                                      |
-|----------------------:|-------------------------------------------------------------------------------------------------------------|
-|  Table of Contents    | [Lab Overview]( )                                                                                           |
-|  Security Audit       | [Conducting a Security Audit]( )                              |
-|  Network Traffic      | Analyzing network structure and security                                                                    |
-|  Linux                | Using Linux commands to manage file permissions                                                             |
-|  [SQL](https://github.com/Char-Hunt/special-guide) | [SQL Filters and queries](https://github.com/Char-Hunt/Data-Retrievals)|
-| Vulns                 | Identifying vulnerabilities for a small business                                                            |
-| Documenting Incidents | [Incident Handler’s Journal]( ) |
-| Parsing Files         | Importing and parsing security-related data                                                                 |
-
-
-### -  SPECIALIZATIONS:
+###  SPECIALIZATIONS:
 - *Professional Certifications and Coursework*
   - Google Cybersecurity Professional Specialization & multiple certificates
   - ISC2 Certified in Cybersecurity Certificate
@@ -40,12 +27,17 @@ Watching societal interactions, tech advancements, and cultural developments tea
   - CompTIA A+
 
 
-⚡Professional Experience Snapshot: Char Hunt⚡
+### ⚡Professional Experience Snapshot: Char Hunt⚡
 
 Several YOE in IT professional services and IT infrastructure analysis / 
 IT Operations / ITGC / ITSM in Business IT Support Solutions and product management throughout organizations ranging SMBs, Legal environments, Corporate
+#
+Extensive Customer Care and Customer Service / Client Services Expertise
 
-Bachelor of Arts, Concentration:  Communications, Journalism, Digital/New Media
+#
+
+Bachelor of Arts, Concentration:  Communications, Journalism, Digital/New Media, Business
+#
 
 Services offered:
 
@@ -56,12 +48,25 @@ Services offered:
         Risk Audit, Compliance
         Market data, Product insights, Product Management, Adoption
         Business IT Consulting, Core Business
-        
+      
         
 #
 Work location: United States
 #
 Work preference: Remote or Hybrid, In-person / On-site negotiable
+
+#
+● Industry: CSM
+
+Customer Success Manager -
+Business Customer Care, technical account management,
+Nov 2024 — Present
+#
+● Industry: Secure IT Advisory
+
+Board Advisor -
+Tech Ops, Social Networking Platforms, Saas,
+Oct 2024 — Present
 #
 ● Industry: Consultant
 
@@ -129,6 +134,21 @@ Jan 2012 — October 2015
 - 🔭Fundamentals of **Cryptography**
   - Public key infrastructure
   - Symmetric and asymmetric [encryption](https://github.com/Char-Hunt/Learning-Info-Sec/blob/main/README.md#types-of-encryption)
+
+
+### ⚡Portfolio List:⚡
+
+| Learning Items       |          Project Title                                                                                      |
+|----------------------:|-------------------------------------------------------------------------------------------------------------|
+|  Table of Contents    | [Lab Overview]( )                                                                                           |
+|  Security Audit       | [Conducting a Security Audit]( )                              |
+|  Network Traffic      | Analyzing network structure and security                                                                    |
+|  Linux                | Using Linux commands to manage file permissions                                                             |
+|  [SQL](https://github.com/Char-Hunt/special-guide) | [SQL Filters and queries](https://github.com/Char-Hunt/Data-Retrievals)|
+| Vulns                 | Identifying vulnerabilities for a small business                                                            |
+| Documenting Incidents | [Incident Handler’s Journal]( ) |
+| Parsing Files         | Importing and parsing security-related data                                                                 |
+
  
 ## 
 ### Frameworks and Controls
