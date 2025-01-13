@@ -1,13 +1,14 @@
-### Hi there 👋 bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | Hallo | مرحبا | ஹலோ | Hola
+### About TechieChar's InfoSec Corner
 
-My name is Char! As a [Cybersecurity Analyst and IT Consultant](https://www.charhunt.org) I'm leveraging my several years of experience in technology to provide solutions for enterprise environments. I have a strong background in IT infrastructure analysis, IT Technical Support, Technical Writing/Editing, IT Services Management, and core business operations. Currently developing and expanding my skillset through coursework and certifications such as CISSP (in progress), CC, Security+, A+, Network+, and GRC. 
+Hi there 👋 bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | Hallo | مرحبا | ஹலோ | Hola
 
-I evaluate risk assessments at a system level focusing on process, controls frameworks, monitoring, or incident response and recovery activities; I'm focused on helping organizations achieve cyber resilience and awareness through effective combinations of empathy and technology; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. 
-I excel at finding solutions for complex problems, delivering customer care excellence, and facilitating efficiencies, accountability, integrity, and results.
+"In the near future every company will be an InfoSec enterprise" - Char Hunt, "TechieChar"
 
-- 🔭 I’m currently working on IT Services Support, InfoSec, IT Security Audit/Risk Assessment/Evaluation and Cybersecurity.
-- 🌱 I’m currently learning python, linux for SOC, ML, and IAM.
-- 👯 I’m looking to collaborate on SIEM, DR, and vulnerability tools.
+My name is Char! As a [Cybersecurity Analyst and IT Consultant](https://www.charhunt.org) I'm leveraging my several years of experience in technologies to provide basic solutions for the interwebs. Everyday, I focus on real world (and sometimes complex) problems, delivering customer care excellence; To whit, facilitating efficiencies, accountability, integrity, and results. I'm focused on helping organizations achieve cyber resilience and awareness through effective combinations of empathy and technology; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. 
+
+- 🔭 I’m currently working on InfoSec, IT Security Audit / Risk Assessment / Evaluation and trustworthy AI solutions.
+- 🌱 I’m currently learning secure tools and services for SOC, AI/ML, and IAM.
+- 👯 I’m looking to collaborate on solutions foir enhanced security and reliability.
 - 🤔 I’m looking for help with threat assessment tips and any of the above.
 - 💬 Ask me about how resiliency, risk, ethics, and customer experience can be intersectional.
 - 📫 How to reach me: Find me online and [Learn More.](https://solo.to/treadm1ll)
@@ -16,111 +17,18 @@ I excel at finding solutions for complex problems, delivering customer care exce
 Watching societal interactions, tech advancements, and cultural developments teaches me daily about human nature, society, and personal resilience.
 #
 
-###  SPECIALIZATIONS:
-- *Professional Certifications and Coursework*
-  - Google Cybersecurity Professional Specialization & multiple certificates
-  - ISC2 Certified in Cybersecurity Certificate
-  - CISSP - In progress
-  - GRC/Compliance
-  - CompTIA Security+
-  - CompTIA Network+
-  - CompTIA A+
 
+### ⚡Services Offered:⚡
 
-### ⚡Professional Experience Snapshot: Char Hunt⚡
+- Extensive customer success / business customer service / client services expertise
+- Small group, 1:1 training programs - Security Operations, Security Principles
 
-Several YOE in IT professional services and IT infrastructure analysis / 
-IT Operations / ITGC / ITSM in Business IT Support Solutions and product management throughout organizations ranging SMBs, Legal environments, Corporate
-#
-Extensive Customer Care and Customer Service / Client Services Expertise
-
-#
-
-Bachelor of Arts, Concentration:  Communications, Journalism, Digital/New Media, Business
-#
-
-Services offered:
-
-        Information, Communication
-        Customer Success, Customer Care, Customer feedback and retention
-        Technical Writing and Editing
-        Security IT Consulting, Cybersecurity
-        Risk Audit, Compliance
-        Market data, Product insights, Product Management, Adoption
-        Business IT Consulting, Core Business
-      
-        
-#
-Work location: United States
-#
-Work preference: Remote or Hybrid, In-person / On-site negotiable
-
-#
-● Industry: CSM
-
-Customer Success Manager -
-Customer loyalty, product adoption, implementation,
-Nov 2024 — Present
-#
-● Industry: Secure IT Advisory
-
-Board Advisor -
-Secure Tech Advisor, Social networking platform, Saas,
-Sept 2024 — Present
-#
-● Industry: Consultant
-
-Primary IT Consultant -
-Tech Ops, ITSM Management, BITS,
-Feb 2023 — Present
-
-#
-● Industry: Marketing & Communications
-
-Cybersecurity Relations -
-Training and Awareness, Mentorship, Writing/Editing,
-June 2023 — Present
-
-#
-● Industry: Techical Editing and Writing,
-
-Communications, Writing -
-Technical Editor, Technical Writing, Training and Awareness, Documentation, 
-Jan 2017 — Present
-
-#
-● Industry: Legal
-
-Law Firm, Legal Environments -
-ITSM / ITGC, IT Tech Ops, Applications Support, IT Security, 
-Jan 2017 — April 2023
-
-#
-● Industry: Telecommunications (Fortune 50)
-
-Global Technical Customer Service (CMS/MSP) -
-B2B / SME/ SaaS / NOC, 
-Aug 2015 — Jan 2017
-
-#
-● Industry: Business Analyst
-
-Technical Sales Support - 
-Retail Sales & Product Marketing / Computer Software & Hardware Consultant, 
-September 2015 — December 2015
-
-#
-● Industry: B2B / B2C Events
-
-Organization Member Relations -
-B2B Product Marketing / Technical Liaison / Product Membership Renewals B2B B2C, 
-Jan 2012 — October 2015
 
 ##
 ### ⚡PROJECTS:⚡
 - 🔭Safeguarding digital information
   - Information privacy: Regulations and compliance
-  - LAB ACTIVITY: Determine appropriate data handling practices
+  - Determing appropriate data handling practices
 - 🔭Elements of a security plan
   - The NIST Cybersecurity Framework
   -  Security guidelines in action, Security Controls and [frameworks](https://github.com/Char-Hunt/Learning-Info-Sec#frameworks-and-controls)
@@ -136,18 +44,18 @@ Jan 2012 — October 2015
   - Symmetric and asymmetric [encryption](https://github.com/Char-Hunt/Learning-Info-Sec/blob/main/README.md#types-of-encryption)
 
 
-### ⚡Portfolio List:⚡
+### ⚡Learning Items:⚡
 
-| Learning Items       |          Project Title                                                                                      |
-|----------------------:|-------------------------------------------------------------------------------------------------------------|
-|  Table of Contents    | [Lab Overview]( )                                                                                           |
-|  Security Audit       | [Conducting a Security Audit]( )                              |
-|  Network Traffic      | Analyzing network structure and security                                                                    |
-|  Linux                | Using Linux commands to manage file permissions                                                             |
-|  [SQL](https://github.com/Char-Hunt/special-guide) | [SQL Filters and queries](https://github.com/Char-Hunt/Data-Retrievals)|
-| Vulns                 | Identifying vulnerabilities for a small business                                                            |
-| Documenting Incidents | [Incident Handler’s Journal]( ) |
-| Parsing Files         | Importing and parsing security-related data                                                                 |
+|  Topics               |          Project Title                                                                                  |
+|----------------------:|---------------------------------------------------------------------------------------------------------|
+|  Table of Contents    | [Overview]( )                                                                                           |
+|  Security Audit       | [Conducting a Security Audit]( )                                                                        |
+|  Network Traffic      | Analyzing network structure and security                                                                |
+|  Authentication       | Using tools to manage access permissions                                                                |
+|  [SQL](https://github.com/Char-Hunt/special-guide) | [SQL Filters and queries](https://github.com/Char-Hunt/Data-Retrievals)    |
+|  Vulns                | Identifying vulnerabilities for a small business                                                        |
+|  Documenting Incidents| Incident Handler’s Journal                                                                              |
+|  Parsing Files        | Importing and parsing data                                                                              |
 
  
 ## 
@@ -186,28 +94,27 @@ AUDIT RISK MATRIX
 
 ![RiskMatrix_prMo](https://github.com/Char-Hunt/Learning-Info-Sec/assets/138831832/36014181-2ddd-4ed2-8705-804a7e5792b3)
 #
-⚡**EXPERIENCE and SKILLS**:⚡ 
+⚡**Other Services and Skills**:⚡ 
 
 - SIEM tools, dashboard technologies
 - Cloud
+- 🔭Security Tools
+  - Blue /Red Team
+  - Microsoft Windows Defender for Endpoints
 - Saas
 - IDS tools
 - [SQL](https://github.com/Char-Hunt/special-guide)
-- Authentication
+- Authentication, PSKs, and Passwords
 - NIST Cybersecurity Framework
 - Risk Assessment, Cybersecurity Assessment
 - Information Assurance
-- Information Systems, SSL Certificates, FTP, DNS, Reverse DNS, DHCP, Network Load Balancing, VPN, Database Mirroring, Systems Administration
+- Information Systems, Systems Administration
 - Risk Management Framework
 - GRC /Compliance: SOC2 Fundamentals
 - Threat Analysis and Reserach
 - OSINT
 - Vulnerability Assessment
 - Incident Reports and Documentation
-- Small group, 1:1 training programs - Security Operations, Security Principles
-- 🔭Security Tools
-  - Blue /Red Team
-  - Microsoft Windows Defender for Endpoint
 - CYBERSECURITY: IT Audit, ITGC, Risk Assessment and design reviews, Controls / Standards ISO-27001, NIST-800, PCI, NIST SP 800-39, HIPAA, NIST 800-82, GDPR, NISTIR 8286, NIST SP 800-30, Security Architecture, Risk Appetite,  BC / DR / IR Concepts
 - Web Application Security concepts (OWASP)
 
