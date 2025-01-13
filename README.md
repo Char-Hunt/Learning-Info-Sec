@@ -50,11 +50,12 @@ Bachelor of Arts, Concentration:  Communications, Journalism, Digital/New Media
 Services offered:
 
         Information, Communication
+        Customer Care, Customer feedback, and retention. 
         Technical Writing and Editing
         Security IT Consulting, Cybersecurity
         Risk Audit, Compliance
         Business IT Consulting, Core Business
-        Customer feedback, Market data, and Product insights, Product Management
+        Market data, Product insights, Product Management, Adoption
         
 #
 Work location: United States
