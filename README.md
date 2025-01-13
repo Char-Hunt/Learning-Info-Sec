@@ -44,7 +44,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
   - Symmetric and asymmetric [encryption](https://github.com/Char-Hunt/Learning-Info-Sec/blob/main/README.md#types-of-encryption)
 
 
-### ⚡Learning Items:⚡
+### ⚡Learning Items Portfolio:⚡
 
 |  Topics               |          Project Title                                                                                  |
 |----------------------:|---------------------------------------------------------------------------------------------------------|
