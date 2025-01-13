@@ -59,13 +59,13 @@ Work preference: Remote or Hybrid, In-person / On-site negotiable
 ● Industry: CSM
 
 Customer Success Manager -
-Business Customer Care, technical account management,
+Customer loyalty, product adoption, implementation,
 Nov 2024 — Present
 #
 ● Industry: Secure IT Advisory
 
 Board Advisor -
-Secure Tech Advisor, Social Networking Platforms, Saas,
+Secure Tech Advisor, Social networking platform, Saas,
 Sept 2024 — Present
 #
 ● Industry: Consultant
