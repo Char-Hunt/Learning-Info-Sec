@@ -2,7 +2,7 @@
 
 Hi there 👋 bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | Hallo | مرحبا | ஹலோ | Hola
 
-"In the near future every company will be an InfoSec enterprise" - Char Hunt, "TechieChar"
+"In the near future every company will be an InfoSec firm." - Char Hunt, "TechieChar"
 
 My name is Char! As a [Cybersecurity Analyst and IT Consultant](https://www.charhunt.org) I'm leveraging my several years of experience in technologies to provide basic solutions for the interwebs. Everyday, I focus on real world (and sometimes complex) problems, delivering customer care excellence; To whit, facilitating efficiencies, accountability, integrity, and results. I'm focused on helping organizations achieve cyber resilience and awareness through effective combinations of empathy and technology; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. 
 
@@ -21,7 +21,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
 ### ⚡Services Offered:⚡
 
 - Extensive customer success / business customer service / client services expertise
-- Small group, 1:1 training programs - Security Operations, Security Principles
+- Small group, 1:1 Training programs - Security Operations, Security Principles
 
 
 ### [HOME](https://github.com/Char-Hunt/Learning-Info-Sec/blob/main/README.md#about-techiechars-infosec-corner)
@@ -111,13 +111,13 @@ AUDIT RISK MATRIX
 
 - SIEM tools, dashboard technologies
 - Cloud
+- Authentication, PSKs, and Passwords
 - 🔭Security Tools
   - Blue /Red Team
   - Microsoft Windows Defender for Endpoints
 - Saas
 - IDS tools
 - [SQL](https://github.com/Char-Hunt/special-guide)
-- Authentication, PSKs, and Passwords
 - NIST Cybersecurity Framework
 - Risk Assessment, Cybersecurity Assessment
 - Information Assurance
@@ -128,8 +128,14 @@ AUDIT RISK MATRIX
 - OSINT
 - Vulnerability Assessment
 - Incident Reports and Documentation
-- CYBERSECURITY: IT Audit, ITGC, Risk Assessment and design reviews, Controls / Standards ISO-27001, NIST-800, PCI, NIST SP 800-39, HIPAA, NIST 800-82, GDPR, NISTIR 8286, NIST SP 800-30, Security Architecture, Risk Appetite,  BC / DR / IR Concepts
+- CYBERSECURITY: IT Audit, ITGC, Risk Assessment and design reviews, Controls / Standards ISO-27001, NIST-800, PCI, NIST SP 800-39, HIPAA, NIST 800-82, GDPR, NISTIR 8286, NIST SP 800-30, Security Architecture, Risk Appetite, BC / DR / IR Concepts
 - Web Application Security concepts (OWASP)
+
+#
+**Who is TechieChar?**
+
+**Char Hunt, "TechieChar"** - Business developer, customer success manager, and InfoSec advocate striving to make a positive impact for everyday people. Leading & scaling awareness.
+
 
 ##
 Visit these Helpful [Forums](https://github.com/Char-Hunt/Forums/blob/main/README.md#forums ) for further Learning & Development.
