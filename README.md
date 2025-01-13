@@ -65,8 +65,8 @@ Nov 2024 — Present
 ● Industry: Secure IT Advisory
 
 Board Advisor -
-Tech Ops, Social Networking Platforms, Saas,
-Oct 2024 — Present
+Secure Tech Advisor, Social Networking Platforms, Saas,
+Sept 2024 — Present
 #
 ● Industry: Consultant
 
