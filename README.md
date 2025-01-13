@@ -24,6 +24,9 @@ Watching societal interactions, tech advancements, and cultural developments tea
 - Small group, 1:1 training programs - Security Operations, Security Principles
 
 
+### [HOME](https://github.com/Char-Hunt/Char-Hunt)
+
+
 ##
 ### ⚡PROJECTS:⚡
 - 🔭Safeguarding digital information
@@ -56,6 +59,9 @@ Watching societal interactions, tech advancements, and cultural developments tea
 |  Vulns                | Identifying vulnerabilities for a small business                                                        |
 |  Documenting Incidents| Incident Handler’s Journal                                                                              |
 |  Parsing Files        | Importing and parsing data                                                                              |
+
+
+### [HOME](https://github.com/Char-Hunt/Char-Hunt)
 
  
 ## 
