@@ -132,12 +132,14 @@ AUDIT RISK MATRIX
 - CYBERSECURITY: IT Audit, ITGC, Risk Assessment and design reviews, Controls / Standards ISO-27001, NIST-800, PCI, NIST SP 800-39, HIPAA, NIST 800-82, GDPR, NISTIR 8286, NIST SP 800-30, Security Architecture, Risk Appetite, BC / DR / IR Concepts
 - Web Application Security concepts (OWASP)
 
-### [HOME](https://github.com/Char-Hunt)
 #
 **Who is TechieChar?**
 
 **Char Hunt, "TechieChar"** - Business developer, customer success manager, and InfoSec advocate striving to make a positive impact for everyday people. Leading & scaling awareness.
 
-
 ##
 Visit these Helpful [Forums](https://github.com/Char-Hunt/Forums/blob/main/README.md#forums ) for further Learning & Development.
+
+##
+
+### [HOME](https://github.com/Char-Hunt)
