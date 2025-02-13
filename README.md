@@ -22,6 +22,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
 
 - Extensive customer success / business customer service / client services expertise
 - Small group, 1:1 Training programs - Security Operations, Security Principles
+- Training operations, IT Training programs
 
 
 ### [HOME](https://github.com/Char-Hunt/Learning-Info-Sec/blob/main/README.md#about-techiechars-infosec-corner)
