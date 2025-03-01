@@ -1,13 +1,13 @@
-### About TechieChar's InfoSec Corner
+### About Char's InfoSec Corner
 
 Hi there 👋 bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | Hallo | مرحبا | ஹலோ | Hola
 
-"In the near future every company will be an InfoSec firm." - Char Hunt, "TechieChar"
+"In the near future every company will be an InfoSec firm." - Char Hunt
 
-My name is Char! As a [Cybersecurity Analyst and IT Consultant](https://www.charhunt.org) I'm leveraging my several years of experience in technologies to provide basic solutions for the interwebs. Everyday, I focus on real world (and sometimes complex) problems, delivering customer care excellence; To whit, facilitating efficiencies, accountability, integrity, and results. I'm focused on helping organizations achieve cyber resilience and awareness through effective combinations of empathy and technology; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. 
+My name is Char! As an [InfoSec advocate and Solutions Consultant](https://www.charhunt.org) I'm leveraging my several years of experience in technologies to provide basic solutions for the interwebs. Everyday, I focus on real world (and sometimes complex) problems, delivering customer care excellence; To whit, facilitating efficiencies, accountability, integrity, and results. I'm focused on helping organizations achieve cyber resilience and awareness through effective combinations of empathy and technology; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. 
 
-- 🔭 I’m currently working on InfoSec, IT Security Audit / Risk Assessment / Evaluation and trustworthy AI solutions.
-- 🌱 I’m currently learning secure tools and services for SOC, AI/ML, and IAM.
+- 🔭 I’m currently working on InfoSec, Secure Audit / Risk Assessment / Evaluation and trustworthy solutions.
+- 🌱 I’m currently exploring secure tools and services for AGI/ML, and GAI
 - 👯 I’m looking to collaborate on solutions foir enhanced security and reliability.
 - 🤔 I’m looking for help with threat assessment tips and any of the above.
 - 💬 Ask me about how resiliency, risk, ethics, and customer experience can be intersectional.
@@ -21,8 +21,8 @@ Watching societal interactions, tech advancements, and cultural developments tea
 ### ⚡Services Offered:⚡
 
 - Extensive customer success / business customer service / client services expertise
-- Small group, 1:1 Training programs - Security Operations, Security Principles
-- Training operations, IT Training programs
+- Small group, 1:1 Training programs - Secure Infrastructure, Security Principles
+- Training & Development support, Learning programs
 
 
 ### [TOP](https://github.com/Char-Hunt/Learning-Info-Sec/blob/main/README.md#about-techiechars-infosec-corner)
@@ -89,7 +89,7 @@ So, say for example we need to confidentially send a plain text message to someo
 ##
 ⚡Understanding Public Key Encryption⚡
 
-![PXch2](https://github.com/Char-Hunt/Learning-Info-Sec/assets/138831832/875517cd-904b-4ad8-9997-3b02b9678225)
+![infosec corrner keyp](https://github.com/user-attachments/assets/c3fd15dc-3b2b-4ed4-ab6a-ed3343fef0b0)
 
 ##
 ⚡The Importance of Being Cyber-aware: Cybersecurity Training and Awareness Programs⚡
@@ -105,7 +105,7 @@ Companies and organizations are spending more on cybersecurity and privacy than 
 #
 AUDIT RISK MATRIX
 
-![RiskMatrix_prMo](https://github.com/Char-Hunt/Learning-Info-Sec/assets/138831832/36014181-2ddd-4ed2-8705-804a7e5792b3)
+![infosec corrner matrix](https://github.com/user-attachments/assets/7fcb8f45-9962-4f7c-bf70-86789c51b789)
 
 #
 ⚡**Other Services and Skills Topics**:⚡ 
@@ -135,7 +135,7 @@ AUDIT RISK MATRIX
 #
 **Who is TechieChar?**
 
-**Char Hunt, "TechieChar"** - Business developer, customer success manager, and InfoSec advocate striving to make a positive impact for everyday people. Leading & scaling awareness.
+**Char Hunt** - Business developer, customer success manager, and InfoSec advocate striving to make a positive impact for everyday people. Leading & scaling awareness.
 
 ##
 Visit these Helpful [Forums](https://github.com/Char-Hunt/Forums/blob/main/README.md#forums ) for further Learning & Development.
