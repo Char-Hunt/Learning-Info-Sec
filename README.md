@@ -133,7 +133,7 @@ AUDIT RISK MATRIX
 - Web Application Security concepts (OWASP)
 
 #
-**Who is TechieChar?**
+**About Me**
 
 **Char Hunt** - Business developer, customer success manager, and InfoSec advocate striving to make a positive impact for everyday people. Leading & scaling awareness.
 
