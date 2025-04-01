@@ -8,7 +8,7 @@ My name is Char! As an [InfoSec advocate and Solutions Consultant](https://www.c
 
 - 🔭 I’m currently working on InfoSec, Secure Audit / Risk Assessment / Evaluation and trustworthy solutions.
 - 🌱 I’m currently exploring secure tools and services for AGI/ML, and GAI
-- 👯 I’m looking to collaborate on solutions foir enhanced security and reliability.
+- 👯 I’m looking to collaborate on solutions for enhanced security and reliability.
 - 🤔 I’m looking for help with threat assessment tips and any of the above.
 - 💬 Ask me about how resiliency, risk, ethics, and customer experience can be intersectional.
 - 📫 How to reach me: Find me online and [Learn More.](https://solo.to/treadm1ll)
@@ -23,6 +23,7 @@ Watching societal interactions, tech advancements, and cultural developments tea
 - Extensive customer success / business customer service / client services expertise
 - Small group, 1:1 Training programs - Secure Infrastructure, Security Principles
 - Training & Development support, Learning programs
+- GPT Customization
 
 
 ### [TOP](https://github.com/Char-Hunt/Learning-Info-Sec/blob/main/README.md#about-techiechars-infosec-corner)
